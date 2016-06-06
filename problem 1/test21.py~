@@ -1,0 +1,6 @@
+# Author: Akshit Arora
+# Date Generated: June 6 2016, 9:06pm
+# Script aims to look at the JSON file containing tweets by various politicians and the list of topics (lot.csv). And then determine whether the tweet is related to any of the topic or not. And then if the politician supports or oppose the policy.
+#test run on Hillary Clinton (HillaryClinton), Cynthia McKinney (cynthiamckinney) and Gary Johnson (GovGaryJohnson)
+
+

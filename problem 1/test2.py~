@@ -64,6 +64,13 @@ for lastName,v in jsonLoaded.iteritems():
 		for aktoken in terms_stop:
 			x+=aktoken
 		x = x.lstrip()
+		stop = stopwords.words('english')
+		tweet_tokenized = [i for i in x.split() if i not in stop and not term.startswith(('#', '@'))]
+		#print tweet_tokenized
+		x=''
+		for aktoken in tweet_tokenized:
+			x+=aktoken+' '
+		x = x.lstrip()
 		#tweet has been sanitized and is ready to be searched on news.google.com
 		payload = {'hl': 'en', 'tbm':'	nws', 'authuser': 0, 'q': x}
 		r = requests.get('https://www.google.com/search',params=payload,proxies={"http":http_proxy,"https":https_proxy})

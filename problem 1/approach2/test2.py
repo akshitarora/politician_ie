@@ -64,8 +64,9 @@ for lastName,v in jsonLoaded.iteritems():
 		for aktoken in terms_stop:
 			x+=aktoken
 		x = x.lstrip()
+		
 		stop = stopwords.words('english')
-		tweet_tokenized = [i for i in x.split() if i not in stop and not term.startswith(('#', '@'))]
+		tweet_tokenized = [i for i in x.split() if i not in stop]
 		#print tweet_tokenized
 		x=''
 		for aktoken in tweet_tokenized:
