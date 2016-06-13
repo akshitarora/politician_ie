@@ -32,7 +32,7 @@ for lastName, twitterHandle in politicians.iteritems():
 	fo.write('\n'+'"'+lastName+'": [')
 	politicianid = api.get_user(twitterHandle)
 	politicianid2 = politicianid.id
-	donald = api.user_timeline(politicianid2,count=50)
+	donald = api.user_timeline(politicianid2,count=200)
 	for tweet in donald:
 		print tweet.text
 		print '\n' #for displaying line separated tweets, just as a check

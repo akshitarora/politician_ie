@@ -1,5 +1,5 @@
 # Author: Akshit Arora
-# Date Generated: June 6 2016, 9:06pm
+# Date Generated: June 13 2016, 9:06pm
 # Script aims to look at the JSON file containing tweets by various politicians and the list of topics (lot.csv). And then determine whether the tweet is related to any of the topic or not. And then if the politician supports or oppose the policy.
 #test run on Hillary Clinton (HillaryClinton), Cynthia McKinney (cynthiamckinney) and Gary Johnson (GovGaryJohnson)
 
@@ -18,6 +18,7 @@ from scrapy.http import HtmlResponse
 from bs4 import BeautifulSoup
 from HTMLParser import HTMLParser
 from nltk.corpus import stopwords
+from nltk.stem.porter import *
 
 def stem_tokens(tokens, stemmer):
 	stemmed = []
