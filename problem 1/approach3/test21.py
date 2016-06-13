@@ -1,6 +1,6 @@
 # Author: Akshit Arora
 # Date Generated: June 13 2016, 9:06pm
-# Script aims to look at the JSON file containing tweets by various politicians and the list of topics (lot.csv). And then determine whether the tweet is related to any of the topic or not. And then if the politician supports or oppose the policy.
+# Script aims to look at the JSON file containing tweets by various politicians and the list of topics (lot.csv). And then determine whether the tweet is related to any of the topic or not by comparing tokens of tweet and topic using the concept of tf-idf. Each tweet is treated as a document and then each topic is run as a query on the matrix. This script also includes the process of stemming.
 #test run on Hillary Clinton (HillaryClinton), Cynthia McKinney (cynthiamckinney) and Gary Johnson (GovGaryJohnson)
 
 import json
@@ -19,6 +19,8 @@ from bs4 import BeautifulSoup
 from HTMLParser import HTMLParser
 from nltk.corpus import stopwords
 from nltk.stem.porter import *
+import os
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 def stem_tokens(tokens, stemmer):
 	stemmed = []
@@ -26,27 +28,57 @@ def stem_tokens(tokens, stemmer):
 		stemmed.append(stemmer.stem(item))
 	return stemmed
 
-stemmer = PorterStemmer()
+def tokenize(text):
+    tokens = nltk.word_tokenize(text)
+    stems = stem_tokens(tokens, stemmer)
+    return stems
 
+punctuation = list(string.punctuation)
+stemmer = PorterStemmer() #for stemming
+token_dict = {} #defining token_dict
 fo = open("output.txt","rb+")
 foo = open("output1.txt","wb+") #cleaned tweets are put here
-#foo2 = open("output3.txt","wb+") #testing whether the two lists are really being compared or not
 foo3 = open("output4.txt","wb+") #final output
-jsonLoaded = json.loads(fo.read())
+jsonLoaded = json.loads(fo.read()) #json object loaded 
+fo.close()
 
+fo2 = open("output.txt","rb+")
+jsonLoaded2 = json.loads(fo2.read())
+for lastName,v in jsonLoaded.iteritems():
+	k = 0
+	for i in v:
+		lowers = i['text'].lower()
+		terms_stop = [term for term in i['text'] if term not in punctuation]
+		x='';
+		#stemming:
+		terms_stop = stem_tokens(terms_stop, stemmer)
+		#concatenation of tokens
+		for aktoken in terms_stop:
+			x+=aktoken
+		x = x.lstrip()
+		k=k+1 #because i is unhashable dict
+		token_dict[lastName,k] = x
+	tfidf = TfidfVectorizer(tokenizer=tokenize, stop_words='english')
+	tfs = tfidf.fit_transform(token_dict.values())
+fo2.close()
+
+print tfs
+"""
 for lastName,v in jsonLoaded.iteritems():
 	for i in v:	
-		punctuation = list(string.punctuation)
 		#Cleaning the tweet.	
 		i['text'] = re.sub(r"(?:\@|https?\://)\S+", "", i['text']) #for removing user mentions, hashtags and links in the tweets
 		#removing stopwords because I do not want the key words that I search to be irrelevant
 		i['text'] = i['text'].lower()
 		terms_stop = [term for term in i['text'] if term not in punctuation]
 		x='';
+		#stemming:
+		terms_stop = stem_tokens(terms_stop, stemmer)
+		#concatenation of tokens
 		for aktoken in terms_stop:
 			x+=aktoken
 		x = x.lstrip()
-		
+		#further cleaning
 		stop = stopwords.words('english')
 		tweet_tokenized = [i for i in x.split() if i not in stop and not term.startswith(('#', '@'))]
 		#print tweet_tokenized
@@ -59,40 +91,17 @@ for lastName,v in jsonLoaded.iteritems():
 		foo.write('" '+x.encode('utf-8').strip()+' "')
 		foo.write('\n\n')
 		fo2 = open("lot.csv","rb+")
-		tweet_tokenized2 = nltk.word_tokenize(x)
+		tweet_tokenized2 = tokenize(x)
 		
-
-		###diagnosis
-		#foo2.write('tweet_tokenized2:    ')
-		#for val in tweet_tokenized2:
-		#	foo2.write(val.encode('utf-8').strip()+' ')
-		#diagnosis
-		#foo2.write('\n\n')
-
 		for line in fo2:
 			a,b,c = line.split(',')
-			if a.lower() == lastName.lower():	#opinion holder should be the same
+			#IF opinion holder is the same
+			if a.lower() == lastName.lower():	
 				#b contains my topic and c contains the sub topic, combining them into one string
 				b = b.lower()
 				c = c.lower()
 				b = b+' '+c
-				#print b
-				#b_tokenized = [i for i in x.split() if i not in stop and not punctuation] #sanitizing topic
-				#by=''
-				#for atoken in b_tokenized:
-				#	by+=atoken+' '
-				#by = by.lstrip()
-				b_tokenized2 = nltk.word_tokenize(b)
-				#print tweet_tokenized2
-				#print b_tokenized2
-
-				###diagnosis
-				#foo2.write('b_tokenized2:    ')
-				#for val in b_tokenized2:
-				#	foo2.write(val.encode('utf-8').strip()+ ' ')
-				#diagnosis
-				#foo2.write('\n')
-
+				b_tokenized2 = tokenize(b)
 				for val in tweet_tokenized2:
 					if val in b_tokenized2:
 						if val not in {'government','and', 'campaign', 'free','policy', 'americans', 'american','wall', 'rights','states'}:
@@ -102,5 +111,4 @@ for lastName,v in jsonLoaded.iteritems():
 							foo3.write('"'+lastName.encode('utf-8').strip()+'", "'+b.encode('utf-8').strip()+'", "'+x.encode('utf-8').strip()+'"\n\n')
 							continue
 		fo2.close()
-		#foo2.write('\n\n\n\n')
-		#file closed
+"""
