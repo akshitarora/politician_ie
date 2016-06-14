@@ -1,0 +1,265 @@
+"Hillary Clinton", "support", "crime & justice death penalty allowed", 0
+"Bernie Sanders", "oppose", "crime & justice death penalty allowed", 0
+"Donald Trump", "support", "crime & justice death penalty allowed", 0
+"Gary Johnson", "support", "crime & justice death penalty allowed", 0"Gary Johnson", "oppose", "crime & justice death penalty allowed", 1
+"Jill Stein", "oppose", "crime & justice death penalty allowed", 0
+"Hillary Clinton", "support", "crime & justice law enforcement allowed use racial profiling", 0"Hillary Clinton", "oppose", "crime & justice law enforcement allowed use racial profiling", 1
+"Bernie Sanders", "oppose", "crime & justice law enforcement allowed use racial profiling", 0
+"Donald Trump", "support", "crime & justice law enforcement allowed use racial profiling", 0
+"Gary Johnson", "oppose", "crime & justice law enforcement allowed use racial profiling", 0
+"Jill Stein", "oppose", "crime & justice law enforcement allowed use racial profiling", 0
+"Hillary Clinton", "support", "crime & justice supreme court justice scalias replacement chosen president obama", 0
+"Bernie Sanders", "support", "crime & justice supreme court justice scalias replacement chosen president obama", 0
+"Donald Trump", "oppose", "crime & justice supreme court justice scalias replacement chosen president obama", 0
+"Hillary Clinton", "neutral", "economy & taxes lowering corporate income tax rate create jobs", 0
+"Bernie Sanders", "oppose", "economy & taxes lowering corporate income tax rate create jobs", 0
+"Donald Trump", "neutral", "economy & taxes lowering corporate income tax rate create jobs", 0
+"Gary Johnson", "support", "economy & taxes lowering corporate income tax rate create jobs", 0
+"Jill Stein", "neutral", "economy & taxes lowering corporate income tax rate create jobs", 0
+"Hillary Clinton", "oppose", "economy & taxes federal government continue subsidize oil companies", 0
+"Bernie Sanders", "oppose", "economy & taxes federal government continue subsidize oil companies", 0
+"Donald Trump", "oppose", "economy & taxes federal government continue subsidize oil companies", 0
+"Gary Johnson", "oppose", "economy & taxes federal government continue subsidize oil companies", 0
+"Jill Stein", "oppose", "economy & taxes federal government continue subsidize oil companies", 0
+"Hillary Clinton", "support", "economy & taxes federal taxes increased", 0
+"Bernie Sanders", "support", "economy & taxes federal taxes increased", 0
+"Donald Trump", "support", "economy & taxes federal taxes increased", 0"Donald Trump", "oppose", "economy & taxes federal taxes increased", 1
+"Gary Johnson", "neutral", "economy & taxes federal taxes increased", 0
+"Jill Stein", "support", "economy & taxes federal taxes increased", 0
+"Hillary Clinton", "oppose", "economy & taxes flat tax income", 0
+"Bernie Sanders", "oppose", "economy & taxes flat tax income", 0
+"Donald Trump", "neutral", "economy & taxes flat tax income", 0
+"Gary Johnson", "oppose", "economy & taxes flat tax income", 0
+"Jill Stein", "oppose", "economy & taxes flat tax income", 0
+"Hillary Clinton", "oppose", "economy & taxes glasssteagall reinstated", 0
+"Bernie Sanders", "support", "economy & taxes glasssteagall reinstated", 0
+"Gary Johnson", "support", "economy & taxes glasssteagall reinstated", 0
+"Jill Stein", "support", "economy & taxes glasssteagall reinstated", 0
+"Donald Trump", "neutral", "economy & taxes us return gold standard coin currency backed gold", 0
+"Gary Johnson", "support", "economy & taxes us return gold standard coin currency backed gold", 0
+"Hillary Clinton", "oppose", "economy & taxes social security privatized", 0
+"Bernie Sanders", "oppose", "economy & taxes social security privatized", 0
+"Donald Trump", "neutral", "economy & taxes social security privatized", 0
+"Gary Johnson", "support", "economy & taxes social security privatized", 0
+"Jill Stein", "oppose", "economy & taxes social security privatized", 0
+"Hillary Clinton", "support", "economy & taxes transpacific partnership tpp trade agreement good america", 0"Hillary Clinton", "oppose", "economy & taxes transpacific partnership tpp trade agreement good america", 1
+"Bernie Sanders", "oppose", "economy & taxes transpacific partnership tpp trade agreement good america", 0
+"Donald Trump", "oppose", "economy & taxes transpacific partnership tpp trade agreement good america", 0
+"Jill Stein", "oppose", "economy & taxes transpacific partnership tpp trade agreement good america", 0
+"Hillary Clinton", "neutral", "education common core standards good education america", 0
+"Bernie Sanders", "support", "education common core standards good education america", 0
+"Donald Trump", "oppose", "education common core standards good education america", 0
+"Gary Johnson", "oppose", "education common core standards good education america", 0
+"Jill Stein", "oppose", "education common core standards good education america", 0
+"Hillary Clinton", "support", "education public colleges universities tuitionfree", 0
+"Bernie Sanders", "support", "education public colleges universities tuitionfree", 0
+"Donald Trump", "oppose", "education public colleges universities tuitionfree", 0
+"Gary Johnson", "neutral", "education public colleges universities tuitionfree", 0
+"Jill Stein", "support", "education public colleges universities tuitionfree", 0
+"Hillary Clinton", "oppose", "elections citizens united supreme court decision good america", 0
+"Bernie Sanders", "oppose", "elections citizens united supreme court decision good america", 0
+"Donald Trump", "oppose", "elections citizens united supreme court decision good america", 0
+"Gary Johnson", "support", "elections citizens united supreme court decision good america", 0
+"Jill Stein", "oppose", "elections citizens united supreme court decision good america", 0
+"Hillary Clinton", "support", "elections felons completed sentences incarceration probation parole allowed vote", 0
+"Bernie Sanders", "support", "elections felons completed sentences incarceration probation parole allowed vote", 0
+"Gary Johnson", "support", "elections felons completed sentences incarceration probation parole allowed vote", 0
+"Jill Stein", "support", "elections felons completed sentences incarceration probation parole allowed vote", 0
+"Hillary Clinton", "oppose", "elections voters required show photo identification order vote", 0
+"Bernie Sanders", "oppose", "elections voters required show photo identification order vote", 0
+"Gary Johnson", "oppose", "elections voters required show photo identification order vote", 0
+"Jill Stein", "oppose", "elections voters required show photo identification order vote", 0
+"Hillary Clinton", "support", "elections us election campaigns publicly financed", 0
+"Bernie Sanders", "support", "elections us election campaigns publicly financed", 0
+"Donald Trump", "neutral", "elections us election campaigns publicly financed", 0
+"Gary Johnson", "neutral", "elections us election campaigns publicly financed", 0
+"Jill Stein", "support", "elections us election campaigns publicly financed", 0
+"Hillary Clinton", "support", "foreign policy china economic military threat united states", 0
+"Bernie Sanders", "neutral", "foreign policy china economic military threat united states", 0
+"Donald Trump", "support", "foreign policy china economic military threat united states", 0
+"Gary Johnson", "oppose", "foreign policy china economic military threat united states", 0
+"Jill Stein", "neutral", "foreign policy china economic military threat united states", 0
+"Hillary Clinton", "support", "foreign policy united states maintain embargo cuba", 0"Hillary Clinton", "oppose", "foreign policy united states maintain embargo cuba", 1
+"Bernie Sanders", "oppose", "foreign policy united states maintain embargo cuba", 0
+"Donald Trump", "oppose", "foreign policy united states maintain embargo cuba", 0
+"Gary Johnson", "oppose", "foreign policy united states maintain embargo cuba", 0
+"Jill Stein", "oppose", "foreign policy united states maintain embargo cuba", 0
+"Hillary Clinton", "support", "foreign policy nuclear arms deal iran good america", 0
+"Bernie Sanders", "support", "foreign policy nuclear arms deal iran good america", 0
+"Donald Trump", "oppose", "foreign policy nuclear arms deal iran good america", 0
+"Gary Johnson", "neutral", "foreign policy nuclear arms deal iran good america", 0
+"Jill Stein", "support", "foreign policy nuclear arms deal iran good america", 0
+"Hillary Clinton", "support", "foreign policy independent palestinian state", 0
+"Bernie Sanders", "support", "foreign policy independent palestinian state", 0
+"Donald Trump", "neutral", "foreign policy independent palestinian state", 0
+"Gary Johnson", "neutral", "foreign policy independent palestinian state", 0
+"Jill Stein", "neutral", "foreign policy independent palestinian state", 0
+"Hillary Clinton", "support", "guns / second amendment gun control laws enacted", 0
+"Bernie Sanders", "support", "guns / second amendment gun control laws enacted", 0
+"Donald Trump", "neutral", "guns / second amendment gun control laws enacted", 0
+"Gary Johnson", "oppose", "guns / second amendment gun control laws enacted", 0
+"Jill Stein", "support", "guns / second amendment gun control laws enacted", 0
+"Hillary Clinton", "support", "guns / second amendment schools gunfree zones", 0
+"Bernie Sanders", "neutral", "guns / second amendment schools gunfree zones", 0
+"Donald Trump", "neutral", "guns / second amendment schools gunfree zones", 0
+"Gary Johnson", "neutral", "guns / second amendment schools gunfree zones", 0
+"Jill Stein", "neutral", "guns / second amendment schools gunfree zones", 0
+"Bernie Sanders", "support", "guns / second amendment federal government study gun violence", 0
+"Jill Stein", "support", "guns / second amendment federal government study gun violence", 0
+"Hillary Clinton", "oppose", "guns / second amendment people nofly list terror watch list allowed purchase guns", 0
+"Bernie Sanders", "oppose", "guns / second amendment people nofly list terror watch list allowed purchase guns", 0
+"Donald Trump", "oppose", "guns / second amendment people nofly list terror watch list allowed purchase guns", 0
+"Gary Johnson", "neutral", "guns / second amendment people nofly list terror watch list allowed purchase guns", 0
+"Hillary Clinton", "support", "health care, abortion, & end of life issues abortion legal", 0
+"Bernie Sanders", "support", "health care, abortion, & end of life issues abortion legal", 0
+"Donald Trump", "support", "health care, abortion, & end of life issues abortion legal", 0"Donald Trump", "oppose", "health care, abortion, & end of life issues abortion legal", 1
+"Gary Johnson", "support", "health care, abortion, & end of life issues abortion legal", 0
+"Jill Stein", "support", "health care, abortion, & end of life issues abortion legal", 0
+"Hillary Clinton", "support", "health care, abortion, & end of life issues obamacare good america", 0
+"Bernie Sanders", "support", "health care, abortion, & end of life issues obamacare good america", 0
+"Donald Trump", "oppose", "health care, abortion, & end of life issues obamacare good america", 0
+"Gary Johnson", "oppose", "health care, abortion, & end of life issues obamacare good america", 0
+"Jill Stein", "oppose", "health care, abortion, & end of life issues obamacare good america", 0
+"Hillary Clinton", "oppose", "health care, abortion, & end of life issues parental consent required pregnant minors abortions", 0
+"Bernie Sanders", "oppose", "health care, abortion, & end of life issues parental consent required pregnant minors abortions", 0
+"Gary Johnson", "support", "health care, abortion, & end of life issues parental consent required pregnant minors abortions", 0
+"Hillary Clinton", "support", "health care, abortion, & end of life issues euthanasia physicianassisted suicide legal", 0
+"Bernie Sanders", "support", "health care, abortion, & end of life issues euthanasia physicianassisted suicide legal", 0
+"Gary Johnson", "support", "health care, abortion, & end of life issues euthanasia physicianassisted suicide legal", 0
+"Hillary Clinton", "support", "health care, abortion, & end of life issues planned parenthood receive federal funding", 0
+"Bernie Sanders", "support", "health care, abortion, & end of life issues planned parenthood receive federal funding", 0
+"Donald Trump", "support", "health care, abortion, & end of life issues planned parenthood receive federal funding", 0"Donald Trump", "oppose", "health care, abortion, & end of life issues planned parenthood receive federal funding", 1
+"Gary Johnson", "support", "health care, abortion, & end of life issues planned parenthood receive federal funding", 0
+"Hillary Clinton", "support", "health care, abortion, & end of life issues americans right entitled health care", 0
+"Bernie Sanders", "support", "health care, abortion, & end of life issues americans right entitled health care", 0
+"Donald Trump", "neutral", "health care, abortion, & end of life issues americans right entitled health care", 0
+"Gary Johnson", "oppose", "health care, abortion, & end of life issues americans right entitled health care", 0
+"Jill Stein", "support", "health care, abortion, & end of life issues americans right entitled health care", 0
+"Hillary Clinton", "oppose", "immigration federal government use raids enforce immigration laws", 0
+"Bernie Sanders", "oppose", "immigration federal government use raids enforce immigration laws", 0
+"Donald Trump", "support", "immigration federal government use raids enforce immigration laws", 0
+"Jill Stein", "oppose", "immigration federal government use raids enforce immigration laws", 0
+"Bernie Sanders", "neutral", "immigration checking employee immigration status everify program mandatory employers", 0
+"Donald Trump", "support", "immigration checking employee immigration status everify program mandatory employers", 0
+"Gary Johnson", "support", "immigration checking employee immigration status everify program mandatory employers", 0
+"Hillary Clinton", "neutral", "immigration united states continue build fencewall along usmexico border", 0
+"Bernie Sanders", "oppose", "immigration united states continue build fencewall along usmexico border", 0
+"Donald Trump", "support", "immigration united states continue build fencewall along usmexico border", 0
+"Gary Johnson", "oppose", "immigration united states continue build fencewall along usmexico border", 0
+"Jill Stein", "oppose", "immigration united states continue build fencewall along usmexico border", 0
+"Hillary Clinton", "support", "immigration undocumented immigrants united states allowed become legal residents", 0
+"Bernie Sanders", "support", "immigration undocumented immigrants united states allowed become legal residents", 0
+"Donald Trump", "oppose", "immigration undocumented immigrants united states allowed become legal residents", 0
+"Gary Johnson", "support", "immigration undocumented immigrants united states allowed become legal residents", 0
+"Jill Stein", "support", "immigration undocumented immigrants united states allowed become legal residents", 0
+"Hillary Clinton", "neutral", "immigration sanctuary cities continue receive federal funding law enforcement", 0
+"Bernie Sanders", "support", "immigration sanctuary cities continue receive federal funding law enforcement", 0
+"Donald Trump", "neutral", "immigration sanctuary cities continue receive federal funding law enforcement", 0
+"Hillary Clinton", "support", "immigration united states allow syrian refugees country", 0
+"Bernie Sanders", "support", "immigration united states allow syrian refugees country", 0
+"Donald Trump", "support", "immigration united states allow syrian refugees country", 0"Donald Trump", "oppose", "immigration united states allow syrian refugees country", 1
+"Gary Johnson", "support", "immigration united states allow syrian refugees country", 0
+"Jill Stein", "support", "immigration united states allow syrian refugees country", 0
+"Hillary Clinton", "support", "labor & wages federal government guarantee paid family medical leave", 0
+"Bernie Sanders", "support", "labor & wages federal government guarantee paid family medical leave", 0
+"Donald Trump", "neutral", "labor & wages federal government guarantee paid family medical leave", 0
+"Jill Stein", "support", "labor & wages federal government guarantee paid family medical leave", 0
+"Hillary Clinton", "support", "labor & wages federal minimum wage increased", 0
+"Bernie Sanders", "support", "labor & wages federal minimum wage increased", 0
+"Donald Trump", "oppose", "labor & wages federal minimum wage increased", 0"Donald Trump", "support", "labor & wages federal minimum wage increased", 1
+"Gary Johnson", "oppose", "labor & wages federal minimum wage increased", 0
+"Jill Stein", "support", "labor & wages federal minimum wage increased", 0
+"Hillary Clinton", "support", "labor & wages labor unions provide overall benefit workers united states", 0
+"Bernie Sanders", "support", "labor & wages labor unions provide overall benefit workers united states", 0
+"Donald Trump", "neutral", "labor & wages labor unions provide overall benefit workers united states", 0
+"Gary Johnson", "neutral", "labor & wages labor unions provide overall benefit workers united states", 0
+"Jill Stein", "support", "labor & wages labor unions provide overall benefit workers united states", 0
+"Hillary Clinton", "oppose", "marijuana marijuana medical option", 0"Hillary Clinton", "support", "marijuana marijuana medical option", 1
+"Bernie Sanders", "support", "marijuana marijuana medical option", 0
+"Donald Trump", "support", "marijuana marijuana medical option", 0
+"Gary Johnson", "support", "marijuana marijuana medical option", 0
+"Jill Stein", "support", "marijuana marijuana medical option", 0
+"Hillary Clinton", "neutral", "marijuana recreational marijuana legal", 0
+"Bernie Sanders", "support", "marijuana recreational marijuana legal", 0
+"Donald Trump", "neutral", "marijuana recreational marijuana legal", 0
+"Gary Johnson", "support", "marijuana recreational marijuana legal", 0
+"Jill Stein", "support", "marijuana recreational marijuana legal", 0
+"Hillary Clinton", "support", "military & war on terror united states continue use drone strikes abroad", 0
+"Bernie Sanders", "support", "military & war on terror united states continue use drone strikes abroad", 0
+"Gary Johnson", "oppose", "military & war on terror united states continue use drone strikes abroad", 0
+"Jill Stein", "oppose", "military & war on terror united states continue use drone strikes abroad", 0
+"Hillary Clinton", "oppose", "military & war on terror united states send ground troops fight isis", 0"Hillary Clinton", "support", "military & war on terror united states send ground troops fight isis", 1
+"Bernie Sanders", "oppose", "military & war on terror united states send ground troops fight isis", 0
+"Donald Trump", "support", "military & war on terror united states send ground troops fight isis", 0
+"Gary Johnson", "oppose", "military & war on terror united states send ground troops fight isis", 0
+"Jill Stein", "oppose", "military & war on terror united states send ground troops fight isis", 0
+"Hillary Clinton", "support", "military & war on terror united states close guantanamo bay detention camp", 0
+"Bernie Sanders", "support", "military & war on terror united states close guantanamo bay detention camp", 0
+"Donald Trump", "oppose", "military & war on terror united states close guantanamo bay detention camp", 0
+"Gary Johnson", "oppose", "military & war on terror united states close guantanamo bay detention camp", 0
+"Jill Stein", "support", "military & war on terror united states close guantanamo bay detention camp", 0
+"Hillary Clinton", "neutral", "military & war on terror us military budget increased", 0
+"Bernie Sanders", "oppose", "military & war on terror us military budget increased", 0
+"Donald Trump", "oppose", "military & war on terror us military budget increased", 0
+"Gary Johnson", "oppose", "military & war on terror us military budget increased", 0
+"Jill Stein", "oppose", "military & war on terror us military budget increased", 0
+"Hillary Clinton", "oppose", "military & war on terror national security agency nsa continue collect phone email metadata us citizens", 0
+"Bernie Sanders", "oppose", "military & war on terror national security agency nsa continue collect phone email metadata us citizens", 0
+"Donald Trump", "support", "military & war on terror national security agency nsa continue collect phone email metadata us citizens", 0
+"Gary Johnson", "oppose", "military & war on terror national security agency nsa continue collect phone email metadata us citizens", 0
+"Jill Stein", "oppose", "military & war on terror national security agency nsa continue collect phone email metadata us citizens", 0
+"Hillary Clinton", "oppose", "military & war on terror interrogation techniques consider torture waterboarding legal option", 0
+"Bernie Sanders", "oppose", "military & war on terror interrogation techniques consider torture waterboarding legal option", 0
+"Donald Trump", "support", "military & war on terror interrogation techniques consider torture waterboarding legal option", 0
+"Gary Johnson", "oppose", "military & war on terror interrogation techniques consider torture waterboarding legal option", 0
+"Jill Stein", "oppose", "military & war on terror interrogation techniques consider torture waterboarding legal option", 0
+"Hillary Clinton", "support", "military & war on terror women allowed serve military combat positions", 0
+"Bernie Sanders", "neutral", "military & war on terror women allowed serve military combat positions", 0
+"Donald Trump", "neutral", "military & war on terror women allowed serve military combat positions", 0
+"Hillary Clinton", "support", "race colleges universities use affirmative action admissions", 0
+"Bernie Sanders", "support", "race colleges universities use affirmative action admissions", 0
+"Donald Trump", "support", "race colleges universities use affirmative action admissions", 0
+"Hillary Clinton", "support", "race black lives matter movement good america", 0
+"Bernie Sanders", "support", "race black lives matter movement good america", 0
+"Donald Trump", "neutral", "race black lives matter movement good america", 0
+"Jill Stein", "support", "race black lives matter movement good america", 0
+"Hillary Clinton", "support", "race criminal justice system unfair black people", 0
+"Bernie Sanders", "support", "race criminal justice system unfair black people", 0
+"Donald Trump", "neutral", "race criminal justice system unfair black people", 0
+"Gary Johnson", "support", "race criminal justice system unfair black people", 0
+"Jill Stein", "support", "race criminal justice system unfair black people", 0
+"Hillary Clinton", "support", "science & environment human activity primarily responsible global climate change", 0
+"Bernie Sanders", "support", "science & environment human activity primarily responsible global climate change", 0
+"Donald Trump", "oppose", "science & environment human activity primarily responsible global climate change", 0
+"Gary Johnson", "support", "science & environment human activity primarily responsible global climate change", 0
+"Jill Stein", "support", "science & environment human activity primarily responsible global climate change", 0
+"Hillary Clinton", "support", "science & environment genetically modified gmo foods mandatory labeling", 0
+"Bernie Sanders", "support", "science & environment genetically modified gmo foods mandatory labeling", 0
+"Donald Trump", "oppose", "science & environment genetically modified gmo foods mandatory labeling", 0
+"Gary Johnson", "support", "science & environment genetically modified gmo foods mandatory labeling", 0
+"Jill Stein", "support", "science & environment genetically modified gmo foods mandatory labeling", 0
+"Hillary Clinton", "support", "science & environment united states authorize keystone xl pipeline import tar sand oil canada", 0"Hillary Clinton", "oppose", "science & environment united states authorize keystone xl pipeline import tar sand oil canada", 1
+"Bernie Sanders", "oppose", "science & environment united states authorize keystone xl pipeline import tar sand oil canada", 0
+"Donald Trump", "support", "science & environment united states authorize keystone xl pipeline import tar sand oil canada", 0
+"Gary Johnson", "support", "science & environment united states authorize keystone xl pipeline import tar sand oil canada", 0
+"Jill Stein", "oppose", "science & environment united states authorize keystone xl pipeline import tar sand oil canada", 0
+"Hillary Clinton", "support", "science & environment united states transition away fossil fuels towards renewable energy", 0
+"Bernie Sanders", "support", "science & environment united states transition away fossil fuels towards renewable energy", 0
+"Donald Trump", "oppose", "science & environment united states transition away fossil fuels towards renewable energy", 0
+"Gary Johnson", "oppose", "science & environment united states transition away fossil fuels towards renewable energy", 0
+"Jill Stein", "support", "science & environment united states transition away fossil fuels towards renewable energy", 0
+"Hillary Clinton", "support", "sex & gender us supreme court decision legalizing samesex marriage good decision", 0
+"Bernie Sanders", "support", "sex & gender us supreme court decision legalizing samesex marriage good decision", 0
+"Donald Trump", "neutral", "sex & gender us supreme court decision legalizing samesex marriage good decision", 0
+"Gary Johnson", "support", "sex & gender us supreme court decision legalizing samesex marriage good decision", 0
+"Jill Stein", "support", "sex & gender us supreme court decision legalizing samesex marriage good decision", 0
+"Hillary Clinton", "oppose", "sex & gender religious liberty give people right deny goods services gay marriage", 0
+"Bernie Sanders", "oppose", "sex & gender religious liberty give people right deny goods services gay marriage", 0
+"Donald Trump", "neutral", "sex & gender religious liberty give people right deny goods services gay marriage", 0
+"Gary Johnson", "oppose", "sex & gender religious liberty give people right deny goods services gay marriage", 0
+"Jill Stein", "oppose", "sex & gender religious liberty give people right deny goods services gay marriage", 0
+"Hillary Clinton", "support", "sex & gender transgender people allowed use bathroom choice", 0
+"Bernie Sanders", "support", "sex & gender transgender people allowed use bathroom choice", 0
+"Donald Trump", "neutral", "sex & gender transgender people allowed use bathroom choice", 0
+"Gary Johnson", "neutral", "sex & gender transgender people allowed use bathroom choice", 0
+"Jill Stein", "support", "sex & gender transgender people allowed use bathroom choice", 0

@@ -59,6 +59,9 @@ for lastName,v in jsonLoaded.iteritems():
 		k=k+1 #because i is unhashable dict
 		token_dict[lastName,k] = x
 	tfidf = TfidfVectorizer(tokenizer=tokenize, stop_words='english')
+	stri = 'this sentence but also king lord juliet'
+	response = tfidf.transform(stri)
+	print response
 	tfs = tfidf.fit_transform(token_dict.values())
 fo2.close()
 
