@@ -86,6 +86,7 @@ for tr in soup.select("table.summary-chart tr"):
 			opinion = 'oppose'
 			print '"'+oh+'", "'+opinion+'", "'+Issue+'", 0'
 			foo.write('"'+oh+'", "'+opinion+'", "'+Issue+'", 0')
+			foo.write('\n')
 			opinion = 'support'
 			print '"'+oh+'", "'+opinion+'", "'+Issue+'", 1'
 			foo.write('"'+oh+'", "'+opinion+'", "'+Issue+'", 1')
@@ -97,6 +98,7 @@ for tr in soup.select("table.summary-chart tr"):
 			opinion = 'support'
 			print '"'+oh+'", "'+opinion+'", "'+Issue+'", 0'
 			foo.write('"'+oh+'", "'+opinion+'", "'+Issue+'", 0')
+			foo.write('\n')
 			opinion = 'oppose'
 			print '"'+oh+'", "'+opinion+'", "'+Issue+'", 1'
 			foo.write('"'+oh+'", "'+opinion+'", "'+Issue+'", 1')

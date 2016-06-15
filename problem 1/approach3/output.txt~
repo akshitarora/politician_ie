@@ -171,6 +171,217 @@
     {
       "contributors": null,
       "truncated": false,
+      "text": "RT @bkesling: A presidential candidate just accused me and thousands of other troops of embezzlement while in a combat zone. \n\nhttps://t.co…",
+      "is_quote_status": false,
+      "in_reply_to_status_id": null,
+      "id": 742906981946687500,
+      "favorite_count": 0,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "retweeted": false,
+      "coordinates": null,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id": 215694545,
+            "indices": [
+              3,
+              12
+            ],
+            "id_str": "215694545",
+            "screen_name": "bkesling",
+            "name": "Ben Kesling"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/Seiu5P0KcB",
+            "indices": [
+              139,
+              140
+            ],
+            "expanded_url": "https://m.youtube.com/watch?v=DoAriULv1P8&feature=youtu.be",
+            "display_url": "m.youtube.com/watch?v=DoAriU…"
+          }
+        ]
+      },
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 1960,
+      "id_str": "742906981946687488",
+      "favorited": false,
+      "retweeted_status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "A presidential candidate just accused me and thousands of other troops of embezzlement while in a combat zone. \n\nhttps://t.co/Seiu5P0KcB",
+        "is_quote_status": false,
+        "in_reply_to_status_id": null,
+        "id": 742892901433282600,
+        "favorite_count": 1559,
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [],
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/Seiu5P0KcB",
+              "indices": [
+                113,
+                136
+              ],
+              "expanded_url": "https://m.youtube.com/watch?v=DoAriULv1P8&feature=youtu.be",
+              "display_url": "m.youtube.com/watch?v=DoAriU…"
+            }
+          ]
+        },
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 1960,
+        "id_str": "742892901433282560",
+        "favorited": false,
+        "user": {
+          "follow_request_sent": false,
+          "has_extended_profile": false,
+          "profile_use_background_image": true,
+          "default_profile_image": false,
+          "id": 215694545,
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+          "verified": true,
+          "profile_text_color": "333333",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/698123772143017985/51mB3dsI_normal.jpg",
+          "profile_sidebar_fill_color": "F6F6F6",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/aBQXNrhtGJ",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "expanded_url": "http://www.wsj.com",
+                  "display_url": "wsj.com"
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "followers_count": 8821,
+          "profile_sidebar_border_color": "EEEEEE",
+          "id_str": "215694545",
+          "profile_background_color": "ACDED6",
+          "listed_count": 455,
+          "is_translation_enabled": false,
+          "utc_offset": -25200,
+          "statuses_count": 17157,
+          "description": "Wall Street Journal reporter. Sometimes in the US, sometimes the Middle East. Every once in a while in Kentucky. ben.kesling@wsj(dot)com",
+          "friends_count": 2514,
+          "location": "Green Bay, Wisconsin",
+          "profile_link_color": "038543",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/698123772143017985/51mB3dsI_normal.jpg",
+          "following": false,
+          "geo_enabled": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/215694545/1427573543",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+          "screen_name": "bkesling",
+          "lang": "en",
+          "profile_background_tile": false,
+          "favourites_count": 1254,
+          "name": "Ben Kesling",
+          "notifications": false,
+          "url": "https://t.co/aBQXNrhtGJ",
+          "created_at": "Sun Nov 14 17:25:27 +0000 2010",
+          "contributors_enabled": false,
+          "time_zone": "Pacific Time (US & Canada)",
+          "protected": false,
+          "default_profile": false,
+          "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Wed Jun 15 01:34:04 +0000 2016",
+        "in_reply_to_status_id_str": null,
+        "place": null
+      },
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": true,
+        "profile_use_background_image": false,
+        "default_profile_image": false,
+        "id": 1339835893,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified": true,
+        "profile_text_color": "000000",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742075525024387072/1ZVfvPL4_normal.jpg",
+        "profile_sidebar_fill_color": "000000",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/qqt83R8Fqb",
+                "indices": [
+                  0,
+                  23
+                ],
+                "expanded_url": "http://hrc.io/signup",
+                "display_url": "hrc.io/signup"
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "followers_count": 6928908,
+        "profile_sidebar_border_color": "000000",
+        "id_str": "1339835893",
+        "profile_background_color": "0057B8",
+        "listed_count": 27229,
+        "is_translation_enabled": false,
+        "utc_offset": -14400,
+        "statuses_count": 6031,
+        "description": "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H",
+        "friends_count": 668,
+        "location": "New York, NY",
+        "profile_link_color": "0057B8",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742075525024387072/1ZVfvPL4_normal.jpg",
+        "following": true,
+        "geo_enabled": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339835893/1465763143",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name": "HillaryClinton",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 1098,
+        "name": "Hillary Clinton",
+        "notifications": false,
+        "url": "https://t.co/qqt83R8Fqb",
+        "created_at": "Tue Apr 09 18:04:35 +0000 2013",
+        "contributors_enabled": false,
+        "time_zone": "Eastern Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Wed Jun 15 02:30:01 +0000 2016",
+      "in_reply_to_status_id_str": null,
+      "place": null
+    },
+    {
+      "contributors": null,
+      "truncated": false,
       "text": "Donald Trump just gave us his \"plan\" for defeating terrorism—conspiracy theories and self-congratulations. https://t.co/5tgNsWkoQh",
       "is_quote_status": false,
       "in_reply_to_status_id": null,
