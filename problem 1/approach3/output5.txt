@@ -1,1213 +1,1213 @@
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.25207, "america has always been a country of "we," not "me." and we've always been stronger together. "
+", "us", 0.25207, "america has always been a country of "we," not "me." and we've always been stronger together. "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.28008, "for 241 years, brave  soldiers have answered the call to serve and protect our nation. thank you. #armybday "
+", "us", 0.28008, "for 241 years, brave  soldiers have answered the call to serve and protect our nation. thank you. #armybday "
 "hillary_clinton", "election felon voting
-", "voting", "0.41947, "an attack on lgbt americans is an attack on all americans.
+", "voting", 0.41947, "an attack on lgbt americans is an attack on all americans.
 "
 "hillary_clinton", "crime justice death penalty
-", "justice", "0.38134, "today's #netneutrality decision is a big win for consumers, innovation, and freedom of expression on the internet: "
+", "justice", 0.38134, "today's #netneutrality decision is a big win for consumers, innovation, and freedom of expression on the internet: "
 "hillary_clinton", "crime justice racial profiling
-", "justice", "0.38134, "today's #netneutrality decision is a big win for consumers, innovation, and freedom of expression on the internet: "
+", "justice", 0.38134, "today's #netneutrality decision is a big win for consumers, innovation, and freedom of expression on the internet: "
 "hillary_clinton", "crime justice supreme court appointment
-", "justice", "0.38134, "today's #netneutrality decision is a big win for consumers, innovation, and freedom of expression on the internet: "
+", "justice", 0.38134, "today's #netneutrality decision is a big win for consumers, innovation, and freedom of expression on the internet: "
 "hillary_clinton", "race criminal justice system
-", "justice", "0.38134, "today's #netneutrality decision is a big win for consumers, innovation, and freedom of expression on the internet: "
+", "justice", 0.38134, "today's #netneutrality decision is a big win for consumers, innovation, and freedom of expression on the internet: "
 "hillary_clinton", "sex gender religious liberty
-", "liberty", "0.4182, "today's #netneutrality decision is a big win for consumers, innovation, and freedom of expression on the internet: "
+", "liberty", 0.4182, "today's #netneutrality decision is a big win for consumers, innovation, and freedom of expression on the internet: "
 "hillary_clinton", "election citizens united campaign finance
-", "citizens", "0.38335, "this is one nation under god, indivisible, with liberty and justice for all. not just for those who look or love or worship one way for all."
+", "citizens", 0.38335, "this is one nation under god, indivisible, with liberty and justice for all. not just for those who look or love or worship one way for all."
 "hillary_clinton", "gun second amendment gun control
-", "gun", "0.25011, "we need to work together to keep our country and our citizens safe.
+", "gun", 0.25011, "we need to work together to keep our country and our citizens safe.
 
 none of this will be helped by anything trump has to offer."
 "hillary_clinton", "gun second amendment gun free school
-", "gun", "0.25011, "we need to work together to keep our country and our citizens safe.
+", "gun", 0.25011, "we need to work together to keep our country and our citizens safe.
 
 none of this will be helped by anything trump has to offer."
 "hillary_clinton", "gun second amendment gun violence research
-", "gun", "0.25011, "we need to work together to keep our country and our citizens safe.
+", "gun", 0.25011, "we need to work together to keep our country and our citizens safe.
 
 none of this will be helped by anything trump has to offer."
 "hillary_clinton", "gun second amendment no fly list
-", "gun", "0.25011, "we need to work together to keep our country and our citizens safe.
+", "gun", 0.25011, "we need to work together to keep our country and our citizens safe.
 
 none of this will be helped by anything trump has to offer."
 "hillary_clinton", "immigration syrian refugees
-", "refugees", "0.32858, "trump's statements are lies but he tells them because he has to distract from the fact that he has nothing substantive to say for himself."
+", "refugees", 0.32858, "trump's statements are lies but he tells them because he has to distract from the fact that he has nothing substantive to say for himself."
 "hillary_clinton", "gun second amendment gun control
-", "amendment", "0.26313, "trump's statements are lies but he tells them because he has to distract from the fact that he has nothing substantive to say for himself."
+", "amendment", 0.26313, "trump's statements are lies but he tells them because he has to distract from the fact that he has nothing substantive to say for himself."
 "hillary_clinton", "gun second amendment gun free school
-", "amendment", "0.26313, "trump's statements are lies but he tells them because he has to distract from the fact that he has nothing substantive to say for himself."
+", "amendment", 0.26313, "trump's statements are lies but he tells them because he has to distract from the fact that he has nothing substantive to say for himself."
 "hillary_clinton", "gun second amendment gun violence research
-", "amendment", "0.26313, "trump's statements are lies but he tells them because he has to distract from the fact that he has nothing substantive to say for himself."
+", "amendment", 0.26313, "trump's statements are lies but he tells them because he has to distract from the fact that he has nothing substantive to say for himself."
 "hillary_clinton", "gun second amendment no fly list
-", "amendment", "0.26313, "trump's statements are lies but he tells them because he has to distract from the fact that he has nothing substantive to say for himself."
+", "amendment", 0.26313, "trump's statements are lies but he tells them because he has to distract from the fact that he has nothing substantive to say for himself."
 "hillary_clinton", "foreign policy china threat
-", "threat", "0.51113, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
+", "threat", 0.51113, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
 "hillary_clinton", "military war terror drone strikes
-", "war", "0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
+", "war", 0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
 "hillary_clinton", "military war terror isis fight us ground troops
-", "war", "0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
+", "war", 0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
 "hillary_clinton", "military war terror gunatanamo bay
-", "war", "0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
+", "war", 0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
 "hillary_clinton", "military war terror budget
-", "war", "0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
+", "war", 0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
 "hillary_clinton", "military war terror women combat
-", "war", "0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
+", "war", 0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
 "hillary_clinton", "military war terror nsa surveillance
-", "war", "0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
+", "war", 0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
 "hillary_clinton", "military war terror torture enhance interrogation
-", "war", "0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
+", "war", 0.43411, "trump's muslim ban is wrong, dangerous, and in this instance, nonsensical. the terrorist in orlando was born in queens just like donald."
 "hillary_clinton", "race black lives matter
-", "matter", "0.38134, ""if donald suggests i won t call this threat what it is, he hasn t been listening. 
+", "matter", 0.38134, ""if donald suggests i won t call this threat what it is, he hasn t been listening. 
 
 but i will not declare war on an entire religion.""
 "hillary_clinton", "education common care
-", "common", "0.34956, ""it matters what we do, not just what we say. it didn t matter what we called bin laden it mattered that we got bin laden."  hillary"
+", "common", 0.34956, ""it matters what we do, not just what we say. it didn t matter what we called bin laden it mattered that we got bin laden."  hillary"
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.16805, "trump's rhetoric is shameful.
+", "us", 0.16805, "trump's rhetoric is shameful.
 
 it was one thing when he was a reality tv personality. it s another when he s running for president."
 "hillary_clinton", "sex gender gay marriage
-", "gender", "0.30668, "trump's rhetoric is shameful.
+", "gender", 0.30668, "trump's rhetoric is shameful.
 
 it was one thing when he was a reality tv personality. it s another when he s running for president."
 "hillary_clinton", "sex gender religious liberty
-", "gender", "0.30668, "trump's rhetoric is shameful.
+", "gender", 0.30668, "trump's rhetoric is shameful.
 
 it was one thing when he was a reality tv personality. it s another when he s running for president."
 "hillary_clinton", "sex gender transgender bathrooms
-", "gender", "0.30668, "trump's rhetoric is shameful.
+", "gender", 0.30668, "trump's rhetoric is shameful.
 
 it was one thing when he was a reality tv personality. it s another when he s running for president."
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.50414, "people of different faiths, backgrounds, sexual orientations, and gender identities are coming together to say: we won t let hate defeat us."
+", "us", 0.50414, "people of different faiths, backgrounds, sexual orientations, and gender identities are coming together to say: we won t let hate defeat us."
 "hillary_clinton", "gun second amendment gun control
-", "second", "0.32858, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
+", "second", 0.32858, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
 "hillary_clinton", "gun second amendment gun control
-", "amendment", "0.26313, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
+", "amendment", 0.26313, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
 "hillary_clinton", "gun second amendment gun free school
-", "second", "0.32858, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
+", "second", 0.32858, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
 "hillary_clinton", "gun second amendment gun free school
-", "amendment", "0.26313, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
+", "amendment", 0.26313, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
 "hillary_clinton", "gun second amendment gun violence research
-", "second", "0.32858, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
+", "second", 0.32858, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
 "hillary_clinton", "gun second amendment gun violence research
-", "amendment", "0.26313, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
+", "amendment", 0.26313, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
 "hillary_clinton", "gun second amendment no fly list
-", "second", "0.32858, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
+", "second", 0.32858, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
 "hillary_clinton", "gun second amendment no fly list
-", "amendment", "0.26313, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
+", "amendment", 0.26313, ""i believe that despite those differences of opinion, we re all on the same team...there s more that unites us than divides us."  hillary"
 "hillary_clinton", "military war terror women combat
-", "women", "0.19887, "yesterday, trump spoke about the terrorist attack in orlando.
+", "women", 0.19887, "yesterday, trump spoke about the terrorist attack in orlando.
 
 watch live as hillary responds: "
 "hillary_clinton", "race black lives matter
-", "black", "0.35386, "yesterday, trump spoke about the terrorist attack in orlando.
+", "black", 0.35386, "yesterday, trump spoke about the terrorist attack in orlando.
 
 watch live as hillary responds: "
 "hillary_clinton", "race black lives matter
-", "lives", "0.27895, "rt  lgbtq people are muslims, jewish, black, latino, women, immigrants.  divisive rhetoric is wrong. today "
+", "lives", 0.27895, "rt  lgbtq people are muslims, jewish, black, latino, women, immigrants.  divisive rhetoric is wrong. today "
 "hillary_clinton", "gun second amendment gun control
-", "gun", "0.2918, "rt  lgbtq people are muslims, jewish, black, latino, women, immigrants.  divisive rhetoric is wrong. today "
+", "gun", 0.2918, "rt  lgbtq people are muslims, jewish, black, latino, women, immigrants.  divisive rhetoric is wrong. today "
 "hillary_clinton", "gun second amendment gun free school
-", "gun", "0.2918, "rt  lgbtq people are muslims, jewish, black, latino, women, immigrants.  divisive rhetoric is wrong. today "
+", "gun", 0.2918, "rt  lgbtq people are muslims, jewish, black, latino, women, immigrants.  divisive rhetoric is wrong. today "
 "hillary_clinton", "gun second amendment gun violence research
-", "violence", "0.32558, "rt  lgbtq people are muslims, jewish, black, latino, women, immigrants.  divisive rhetoric is wrong. today "
+", "violence", 0.32558, "rt  lgbtq people are muslims, jewish, black, latino, women, immigrants.  divisive rhetoric is wrong. today "
 "hillary_clinton", "gun second amendment gun violence research
-", "gun", "0.2918, "rt  lgbtq people are muslims, jewish, black, latino, women, immigrants.  divisive rhetoric is wrong. today "
+", "gun", 0.2918, "rt  lgbtq people are muslims, jewish, black, latino, women, immigrants.  divisive rhetoric is wrong. today "
 "hillary_clinton", "gun second amendment no fly list
-", "gun", "0.2918, "rt  lgbtq people are muslims, jewish, black, latino, women, immigrants.  divisive rhetoric is wrong. today "
+", "gun", 0.2918, "rt  lgbtq people are muslims, jewish, black, latino, women, immigrants.  divisive rhetoric is wrong. today "
 "hillary_clinton", "gun second amendment gun control
-", "gun", "0.43769, " un ataque a cualquier estadounidense, es un ataque a todos los estadounidenses   hillary tras tragedia en orlando. "
+", "gun", 0.43769, " un ataque a cualquier estadounidense, es un ataque a todos los estadounidenses   hillary tras tragedia en orlando. "
 "hillary_clinton", "gun second amendment gun free school
-", "gun", "0.43769, " un ataque a cualquier estadounidense, es un ataque a todos los estadounidenses   hillary tras tragedia en orlando. "
+", "gun", 0.43769, " un ataque a cualquier estadounidense, es un ataque a todos los estadounidenses   hillary tras tragedia en orlando. "
 "hillary_clinton", "gun second amendment gun violence research
-", "gun", "0.43769, " un ataque a cualquier estadounidense, es un ataque a todos los estadounidenses   hillary tras tragedia en orlando. "
+", "gun", 0.43769, " un ataque a cualquier estadounidense, es un ataque a todos los estadounidenses   hillary tras tragedia en orlando. "
 "hillary_clinton", "gun second amendment no fly list
-", "gun", "0.43769, " un ataque a cualquier estadounidense, es un ataque a todos los estadounidenses   hillary tras tragedia en orlando. "
+", "gun", 0.43769, " un ataque a cualquier estadounidense, es un ataque a todos los estadounidenses   hillary tras tragedia en orlando. "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.28008, ""i have no doubt we can meet this challenge   if we meet it together."
+", "us", 0.28008, ""i have no doubt we can meet this challenge   if we meet it together."
 
 hillary's address on the orlando attack: "
 "hillary_clinton", "military war terror drone strikes
-", "war", "0.43411, ""a nightmare that s become mind-numbingly familiar." 
+", "war", 0.43411, ""a nightmare that s become mind-numbingly familiar." 
 
 hillary on the deadliest shooting in u.s. history: "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "war", "0.43411, ""a nightmare that s become mind-numbingly familiar." 
+", "war", 0.43411, ""a nightmare that s become mind-numbingly familiar." 
 
 hillary on the deadliest shooting in u.s. history: "
 "hillary_clinton", "military war terror gunatanamo bay
-", "war", "0.43411, ""a nightmare that s become mind-numbingly familiar." 
+", "war", 0.43411, ""a nightmare that s become mind-numbingly familiar." 
 
 hillary on the deadliest shooting in u.s. history: "
 "hillary_clinton", "military war terror budget
-", "war", "0.43411, ""a nightmare that s become mind-numbingly familiar." 
+", "war", 0.43411, ""a nightmare that s become mind-numbingly familiar." 
 
 hillary on the deadliest shooting in u.s. history: "
 "hillary_clinton", "military war terror women combat
-", "war", "0.43411, ""a nightmare that s become mind-numbingly familiar." 
+", "war", 0.43411, ""a nightmare that s become mind-numbingly familiar." 
 
 hillary on the deadliest shooting in u.s. history: "
 "hillary_clinton", "military war terror nsa surveillance
-", "war", "0.43411, ""a nightmare that s become mind-numbingly familiar." 
+", "war", 0.43411, ""a nightmare that s become mind-numbingly familiar." 
 
 hillary on the deadliest shooting in u.s. history: "
 "hillary_clinton", "military war terror torture enhance interrogation
-", "war", "0.43411, ""a nightmare that s become mind-numbingly familiar." 
+", "war", 0.43411, ""a nightmare that s become mind-numbingly familiar." 
 
 hillary on the deadliest shooting in u.s. history: "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "fight", "0.48838, "tenemos que unirnos, sentir orgullo juntos. no hay mejor respuesta para los terroristas y a todos aquellos que odian "
+", "fight", 0.48838, "tenemos que unirnos, sentir orgullo juntos. no hay mejor respuesta para los terroristas y a todos aquellos que odian "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.31509, "tenemos que unirnos, sentir orgullo juntos. no hay mejor respuesta para los terroristas y a todos aquellos que odian "
+", "us", 0.31509, "tenemos que unirnos, sentir orgullo juntos. no hay mejor respuesta para los terroristas y a todos aquellos que odian "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.25207, "we have to stand together and be proud together. there is no better rebuke to the terrorists and all those who hate. "
+", "us", 0.25207, "we have to stand together and be proud together. there is no better rebuke to the terrorists and all those who hate. "
 "hillary_clinton", "gun second amendment gun violence research
-", "violence", "0.30054, "our open, diverse society is an asset in the struggle against terrorism, not a liability. it makes us stronger."
+", "violence", 0.30054, "our open, diverse society is an asset in the struggle against terrorism, not a liability. it makes us stronger."
 "hillary_clinton", "military war terror drone strikes
-", "terror", "0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
+", "terror", 0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
 
 an attack on any american is an attack on all americans."
 "hillary_clinton", "military war terror isis fight us ground troops
-", "terror", "0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
+", "terror", 0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
 
 an attack on any american is an attack on all americans."
 "hillary_clinton", "military war terror gunatanamo bay
-", "terror", "0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
+", "terror", 0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
 
 an attack on any american is an attack on all americans."
 "hillary_clinton", "military war terror budget
-", "terror", "0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
+", "terror", 0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
 
 an attack on any american is an attack on all americans."
 "hillary_clinton", "military war terror women combat
-", "terror", "0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
+", "terror", 0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
 
 an attack on any american is an attack on all americans."
 "hillary_clinton", "military war terror nsa surveillance
-", "terror", "0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
+", "terror", 0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
 
 an attack on any american is an attack on all americans."
 "hillary_clinton", "military war terror torture enhance interrogation
-", "terror", "0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
+", "terror", 0.32267, "the terrorist in orlando targeted lgbt americans out of hatred and bigotry. 
 
 an attack on any american is an attack on all americans."
 "hillary_clinton", "military war terror isis fight us ground troops
-", "fight", "0.26047, "inflammatory anti-muslim rhetoric hurts the vast majority of muslims who love freedom and hate terror. it s wrong, and it's dangerous."
+", "fight", 0.26047, "inflammatory anti-muslim rhetoric hurts the vast majority of muslims who love freedom and hate terror. it s wrong, and it's dangerous."
 "hillary_clinton", "race black lives matter
-", "lives", "0.22316, "inflammatory anti-muslim rhetoric hurts the vast majority of muslims who love freedom and hate terror. it s wrong, and it's dangerous."
+", "lives", 0.22316, "inflammatory anti-muslim rhetoric hurts the vast majority of muslims who love freedom and hate terror. it s wrong, and it's dangerous."
 "hillary_clinton", "gun second amendment gun control
-", "gun", "0.31832, "in orlando and san bernardino, terrorists used assault weapons like the ar-15 to kill americans. we should make it harder for them to do so."
+", "gun", 0.31832, "in orlando and san bernardino, terrorists used assault weapons like the ar-15 to kill americans. we should make it harder for them to do so."
 "hillary_clinton", "gun second amendment gun free school
-", "gun", "0.31832, "in orlando and san bernardino, terrorists used assault weapons like the ar-15 to kill americans. we should make it harder for them to do so."
+", "gun", 0.31832, "in orlando and san bernardino, terrorists used assault weapons like the ar-15 to kill americans. we should make it harder for them to do so."
 "hillary_clinton", "gun second amendment gun violence research
-", "gun", "0.31832, "in orlando and san bernardino, terrorists used assault weapons like the ar-15 to kill americans. we should make it harder for them to do so."
+", "gun", 0.31832, "in orlando and san bernardino, terrorists used assault weapons like the ar-15 to kill americans. we should make it harder for them to do so."
 "hillary_clinton", "gun second amendment no fly list
-", "gun", "0.31832, "in orlando and san bernardino, terrorists used assault weapons like the ar-15 to kill americans. we should make it harder for them to do so."
+", "gun", 0.31832, "in orlando and san bernardino, terrorists used assault weapons like the ar-15 to kill americans. we should make it harder for them to do so."
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.3601, ""as president, i will make identifying and stopping lone wolves a top priority."  hillary on her counterterrorism strategy"
+", "us", 0.3601, ""as president, i will make identifying and stopping lone wolves a top priority."  hillary on her counterterrorism strategy"
 "hillary_clinton", "military war terror drone strikes
-", "war", "0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
+", "war", 0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "war", "0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
+", "war", 0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
 "hillary_clinton", "military war terror gunatanamo bay
-", "war", "0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
+", "war", 0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
 "hillary_clinton", "military war terror budget
-", "war", "0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
+", "war", 0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
 "hillary_clinton", "military war terror women combat
-", "war", "0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
+", "war", 0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
 "hillary_clinton", "military war terror nsa surveillance
-", "war", "0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
+", "war", 0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
 "hillary_clinton", "military war terror torture enhance interrogation
-", "war", "0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
+", "war", 0.35518, "watch live: hillary speaks on the terrorist attack in orlando   "
 "hillary_clinton", "military war terror drone strikes
-", "terror", "0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
+", "terror", 0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "terror", "0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
+", "terror", 0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
 "hillary_clinton", "military war terror gunatanamo bay
-", "terror", "0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
+", "terror", 0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
 "hillary_clinton", "military war terror budget
-", "terror", "0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
+", "terror", 0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
 "hillary_clinton", "military war terror women combat
-", "terror", "0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
+", "terror", 0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
 "hillary_clinton", "military war terror nsa surveillance
-", "terror", "0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
+", "terror", 0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
 "hillary_clinton", "military war terror torture enhance interrogation
-", "terror", "0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
+", "terror", 0.52434, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.   hillary "
 "hillary_clinton", "education tuition free colleges university
-", "university", "0.4182, "when trump goes off his staff's script he insults anyone who challenges him. judge for his heritage, senator for hers. rs should disavow. -h"
+", "university", 0.4182, "when trump goes off his staff's script he insults anyone who challenges him. judge for his heritage, senator for hers. rs should disavow. -h"
 "hillary_clinton", "science environment climate change
-", "environment", "0.51113, ". is temperamentally unfit to be president and commander-in-chief.
+", "environment", 0.51113, ". is temperamentally unfit to be president and commander-in-chief.
 "
 "hillary_clinton", "science environment gmo food mandatory labeling
-", "environment", "0.51113, ". is temperamentally unfit to be president and commander-in-chief.
+", "environment", 0.51113, ". is temperamentally unfit to be president and commander-in-chief.
 "
 "hillary_clinton", "science environment keystone xl pipeline
-", "environment", "0.51113, ". is temperamentally unfit to be president and commander-in-chief.
+", "environment", 0.51113, ". is temperamentally unfit to be president and commander-in-chief.
 "
 "hillary_clinton", "science environment renewable energy
-", "environment", "0.51113, ". is temperamentally unfit to be president and commander-in-chief.
+", "environment", 0.51113, ". is temperamentally unfit to be president and commander-in-chief.
 "
 "hillary_clinton", "military war terror women combat
-", "women", "0.32316, "lights, camera, history.
+", "women", 0.32316, "lights, camera, history.
 "
 "hillary_clinton", "military war terror women combat
-", "women", "0.51705, "a man with this much contempt and disrespect for women has no business becoming president. "
+", "women", 0.51705, "a man with this much contempt and disrespect for women has no business becoming president. "
 "hillary_clinton", "foreign policy china threat
-", "policy", "0.70772, ""she s a fighter. she s out there. she s tough."   on hillary:  "
+", "policy", 0.70772, ""she s a fighter. she s out there. she s tough."   on hillary:  "
 "hillary_clinton", "foreign policy cuba embargo
-", "policy", "0.70772, ""she s a fighter. she s out there. she s tough."   on hillary:  "
+", "policy", 0.70772, ""she s a fighter. she s out there. she s tough."   on hillary:  "
 "hillary_clinton", "foreign policy nuclear deal iran
-", "policy", "0.70772, ""she s a fighter. she s out there. she s tough."   on hillary:  "
+", "policy", 0.70772, ""she s a fighter. she s out there. she s tough."   on hillary:  "
 "hillary_clinton", "foreign policy palestanian statehood
-", "policy", "0.70772, ""she s a fighter. she s out there. she s tough."   on hillary:  "
+", "policy", 0.70772, ""she s a fighter. she s out there. she s tough."   on hillary:  "
 "hillary_clinton", "military war terror women combat
-", "women", "0.43088, "rt  hey  meet part of hillary's policy team. we're pretty proud of her 201 pages of policy.  ht "
+", "women", 0.43088, "rt  hey  meet part of hillary's policy team. we're pretty proud of her 201 pages of policy.  ht "
 "hillary_clinton", "health care abortion end of life right to health care
-", "right", "0.69912, "rt  hey  meet part of hillary's policy team. we're pretty proud of her 201 pages of policy.  ht "
+", "right", 0.69912, "rt  hey  meet part of hillary's policy team. we're pretty proud of her 201 pages of policy.  ht "
 "hillary_clinton", "foreign policy nuclear deal iran
-", "deal", "0.76669, "trump can t say he treats women with respect.
+", "deal", 0.76669, "trump can t say he treats women with respect.
 
 (for once, he s right.)
 "
 "hillary_clinton", "economy taxes glass steagall
-", "glass", "0.38134, " ella tiene la valentía, la compasión y el corazón para realizar el trabajo . mira el mensaje del presidente obama.
+", "glass", 0.38134, " ella tiene la valentía, la compasión y el corazón para realizar el trabajo . mira el mensaje del presidente obama.
 "
 "hillary_clinton", "military war terror women combat
-", "women", "0.23502, " ella tiene la valentía, la compasión y el corazón para realizar el trabajo . mira el mensaje del presidente obama.
+", "women", 0.23502, " ella tiene la valentía, la compasión y el corazón para realizar el trabajo . mira el mensaje del presidente obama.
 "
 "hillary_clinton", "military war terror women combat
-", "women", "0.32316, "we re not just going to break the glass ceiling. we re going to break down all the barriers that hold back women and their families."
+", "women", 0.32316, "we re not just going to break the glass ceiling. we re going to break down all the barriers that hold back women and their families."
 "hillary_clinton", "military war terror women combat
-", "women", "0.3447, "trump has called women  pigs,   dogs,  and  disgusting animals. 
+", "women", 0.3447, "trump has called women  pigs,   dogs,  and  disgusting animals. 
 
 we can't even count on him to respect women much less protect our rights."
 "hillary_clinton", "health care abortion end of life
-", "abortion", "0.24559, "trump has called women  pigs,   dogs,  and  disgusting animals. 
+", "abortion", 0.24559, "trump has called women  pigs,   dogs,  and  disgusting animals. 
 
 we can't even count on him to respect women much less protect our rights."
 "hillary_clinton", "health care abortion end of life obamacare
-", "abortion", "0.24559, "trump has called women  pigs,   dogs,  and  disgusting animals. 
+", "abortion", 0.24559, "trump has called women  pigs,   dogs,  and  disgusting animals. 
 
 we can't even count on him to respect women much less protect our rights."
 "hillary_clinton", "health care abortion end of life teen parental consent
-", "abortion", "0.24559, "trump has called women  pigs,   dogs,  and  disgusting animals. 
+", "abortion", 0.24559, "trump has called women  pigs,   dogs,  and  disgusting animals. 
 
 we can't even count on him to respect women much less protect our rights."
 "hillary_clinton", "health care abortion end of life physician assisted suicide
-", "abortion", "0.24559, "trump has called women  pigs,   dogs,  and  disgusting animals. 
+", "abortion", 0.24559, "trump has called women  pigs,   dogs,  and  disgusting animals. 
 
 we can't even count on him to respect women much less protect our rights."
 "hillary_clinton", "health care abortion end of life planned parenthood funding
-", "abortion", "0.24559, "trump has called women  pigs,   dogs,  and  disgusting animals. 
+", "abortion", 0.24559, "trump has called women  pigs,   dogs,  and  disgusting animals. 
 
 we can't even count on him to respect women much less protect our rights."
 "hillary_clinton", "health care abortion end of life right to health care
-", "abortion", "0.24559, "trump has called women  pigs,   dogs,  and  disgusting animals. 
+", "abortion", 0.24559, "trump has called women  pigs,   dogs,  and  disgusting animals. 
 
 we can't even count on him to respect women much less protect our rights."
 "hillary_clinton", "military war terror women combat
-", "women", "0.39773, "trump says he'd be "the best for women."
+", "women", 0.39773, "trump says he'd be "the best for women."
 
 anyone who'd defund  and wipe out safe, legal abortion has no idea what s best for women."
 "hillary_clinton", "health care abortion end of life
-", "abortion", "0.28337, "trump says he'd be "the best for women."
+", "abortion", 0.28337, "trump says he'd be "the best for women."
 
 anyone who'd defund  and wipe out safe, legal abortion has no idea what s best for women."
 "hillary_clinton", "health care abortion end of life obamacare
-", "abortion", "0.28337, "trump says he'd be "the best for women."
+", "abortion", 0.28337, "trump says he'd be "the best for women."
 
 anyone who'd defund  and wipe out safe, legal abortion has no idea what s best for women."
 "hillary_clinton", "health care abortion end of life teen parental consent
-", "abortion", "0.28337, "trump says he'd be "the best for women."
+", "abortion", 0.28337, "trump says he'd be "the best for women."
 
 anyone who'd defund  and wipe out safe, legal abortion has no idea what s best for women."
 "hillary_clinton", "health care abortion end of life physician assisted suicide
-", "abortion", "0.28337, "trump says he'd be "the best for women."
+", "abortion", 0.28337, "trump says he'd be "the best for women."
 
 anyone who'd defund  and wipe out safe, legal abortion has no idea what s best for women."
 "hillary_clinton", "health care abortion end of life planned parenthood funding
-", "abortion", "0.28337, "trump says he'd be "the best for women."
+", "abortion", 0.28337, "trump says he'd be "the best for women."
 
 anyone who'd defund  and wipe out safe, legal abortion has no idea what s best for women."
 "hillary_clinton", "health care abortion end of life right to health care
-", "abortion", "0.28337, "trump says he'd be "the best for women."
+", "abortion", 0.28337, "trump says he'd be "the best for women."
 
 anyone who'd defund  and wipe out safe, legal abortion has no idea what s best for women."
 "hillary_clinton", "military war terror women combat
-", "women", "0.43088, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "women", 0.43088, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "health care abortion end of life
-", "health", "0.34956, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "health", 0.34956, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "health care abortion end of life
-", "abortion", "0.30699, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "abortion", 0.30699, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "health care abortion end of life obamacare
-", "health", "0.34956, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "health", 0.34956, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "health care abortion end of life obamacare
-", "abortion", "0.30699, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "abortion", 0.30699, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "health care abortion end of life teen parental consent
-", "health", "0.34956, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "health", 0.34956, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "health care abortion end of life teen parental consent
-", "abortion", "0.30699, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "abortion", 0.30699, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "health care abortion end of life physician assisted suicide
-", "health", "0.34956, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "health", 0.34956, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "health care abortion end of life physician assisted suicide
-", "abortion", "0.30699, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "abortion", 0.30699, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "health care abortion end of life planned parenthood funding
-", "health", "0.34956, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "health", 0.34956, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "health care abortion end of life planned parenthood funding
-", "abortion", "0.30699, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "abortion", 0.30699, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "health care abortion end of life right to health care
-", "health", "0.34956, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "health", 0.34956, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "health care abortion end of life right to health care
-", "abortion", "0.30699, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
+", "abortion", 0.30699, "laws that restrict access to abortion don t make women less likely to seek it they just make women less safe. "
 "hillary_clinton", "military war terror women combat
-", "women", "0.43088, "defending women s health means defending access to safe, legal abortion for all who need it not just women who can afford it."
+", "women", 0.43088, "defending women s health means defending access to safe, legal abortion for all who need it not just women who can afford it."
 "hillary_clinton", "gun second amendment gun control
-", "amendment", "0.30699, "defending women s health means defending access to safe, legal abortion for all who need it not just women who can afford it."
+", "amendment", 0.30699, "defending women s health means defending access to safe, legal abortion for all who need it not just women who can afford it."
 "hillary_clinton", "gun second amendment gun free school
-", "amendment", "0.30699, "defending women s health means defending access to safe, legal abortion for all who need it not just women who can afford it."
+", "amendment", 0.30699, "defending women s health means defending access to safe, legal abortion for all who need it not just women who can afford it."
 "hillary_clinton", "gun second amendment gun violence research
-", "amendment", "0.30699, "defending women s health means defending access to safe, legal abortion for all who need it not just women who can afford it."
+", "amendment", 0.30699, "defending women s health means defending access to safe, legal abortion for all who need it not just women who can afford it."
 "hillary_clinton", "gun second amendment no fly list
-", "amendment", "0.30699, "defending women s health means defending access to safe, legal abortion for all who need it not just women who can afford it."
+", "amendment", 0.30699, "defending women s health means defending access to safe, legal abortion for all who need it not just women who can afford it."
 "hillary_clinton", "labor wages family medical leave
-", "leave", "0.2706, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
+", "leave", 0.2706, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
 "hillary_clinton", "gun second amendment gun control
-", "control", "0.2706, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
+", "control", 0.2706, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
 "hillary_clinton", "health care abortion end of life
-", "abortion", "0.2167, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
+", "abortion", 0.2167, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
 "hillary_clinton", "health care abortion end of life obamacare
-", "abortion", "0.2167, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
+", "abortion", 0.2167, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
 "hillary_clinton", "health care abortion end of life teen parental consent
-", "abortion", "0.2167, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
+", "abortion", 0.2167, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
 "hillary_clinton", "health care abortion end of life physician assisted suicide
-", "abortion", "0.2167, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
+", "abortion", 0.2167, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
 "hillary_clinton", "health care abortion end of life planned parenthood funding
-", "abortion", "0.2167, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
+", "abortion", 0.2167, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
 "hillary_clinton", "health care abortion end of life right to health care
-", "abortion", "0.2167, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
+", "abortion", 0.2167, "the hyde amendment restricts the reproductive rights of low-income women disproportionately women of color. we need to repeal it now."
 "hillary_clinton", "military war terror women combat
-", "women", "0.28725, "ever notice the politicians who oppose birth control and abortion also oppose policies that make it easier to raise a child like paid leave?"
+", "women", 0.28725, "ever notice the politicians who oppose birth control and abortion also oppose policies that make it easier to raise a child like paid leave?"
 "hillary_clinton", "race black lives matter
-", "lives", "0.37193, "ever notice the politicians who oppose birth control and abortion also oppose policies that make it easier to raise a child like paid leave?"
+", "lives", 0.37193, "ever notice the politicians who oppose birth control and abortion also oppose policies that make it easier to raise a child like paid leave?"
 "hillary_clinton", "health care abortion end of life planned parenthood funding
-", "parenthood", "0.38335, " being able to plan their families not only saved women s lives it also transformed them.   hillary to "
+", "parenthood", 0.38335, " being able to plan their families not only saved women s lives it also transformed them.   hillary to "
 "hillary_clinton", "health care abortion end of life planned parenthood funding
-", "planned", "0.38335, " being able to plan their families not only saved women s lives it also transformed them.   hillary to "
+", "planned", 0.38335, " being able to plan their families not only saved women s lives it also transformed them.   hillary to "
 "hillary_clinton", "election citizens united campaign finance
-", "united", "0.38906, ""today, i want to start by saying something you don t hear often enough: thank you.   hillary to planned parenthood"
+", "united", 0.38906, ""today, i want to start by saying something you don t hear often enough: thank you.   hillary to planned parenthood"
 "hillary_clinton", "military war terror isis fight us ground troops
-", "fight", "0.43411, "we're hiring across the country to bring home a win in november. apply to join our team: 
+", "fight", 0.43411, "we're hiring across the country to bring home a win in november. apply to join our team: 
 "
 "hillary_clinton", "education common care
-", "care", "0.32267, ". endorsing hillary on  "she's a fighter."
+", "care", 0.32267, ". endorsing hillary on  "she's a fighter."
 "
 "hillary_clinton", "election citizens united campaign finance
-", "united", "0.26935, ". endorsing hillary on  "she's a fighter."
+", "united", 0.26935, ". endorsing hillary on  "she's a fighter."
 "
 "hillary_clinton", "health care abortion end of life
-", "care", "0.32267, ". endorsing hillary on  "she's a fighter."
+", "care", 0.32267, ". endorsing hillary on  "she's a fighter."
 "
 "hillary_clinton", "health care abortion end of life obamacare
-", "care", "0.32267, ". endorsing hillary on  "she's a fighter."
+", "care", 0.32267, ". endorsing hillary on  "she's a fighter."
 "
 "hillary_clinton", "health care abortion end of life teen parental consent
-", "care", "0.32267, ". endorsing hillary on  "she's a fighter."
+", "care", 0.32267, ". endorsing hillary on  "she's a fighter."
 "
 "hillary_clinton", "health care abortion end of life physician assisted suicide
-", "care", "0.32267, ". endorsing hillary on  "she's a fighter."
+", "care", 0.32267, ". endorsing hillary on  "she's a fighter."
 "
 "hillary_clinton", "health care abortion end of life planned parenthood funding
-", "care", "0.32267, ". endorsing hillary on  "she's a fighter."
+", "care", 0.32267, ". endorsing hillary on  "she's a fighter."
 "
 "hillary_clinton", "health care abortion end of life right to health care
-", "care", "0.32267, ". endorsing hillary on  "she's a fighter."
+", "care", 0.32267, ". endorsing hillary on  "she's a fighter."
 "
 "hillary_clinton", "election citizens united campaign finance
-", "campaign", "0.7814, "rt  we can't wait to welcome back president barack obama and  to wisconsin on wednesday! #wibackher "
+", "campaign", 0.7814, "rt  we can't wait to welcome back president barack obama and  to wisconsin on wednesday! #wibackher "
 "hillary_clinton", "election public campaign financing
-", "campaign", "0.7814, "rt  we can't wait to welcome back president barack obama and  to wisconsin on wednesday! #wibackher "
+", "campaign", 0.7814, "rt  we can't wait to welcome back president barack obama and  to wisconsin on wednesday! #wibackher "
 "hillary_clinton", "science environment climate change
-", "climate", "0.51113, "president obama endorses hillary: "i don t think there s ever been someone so qualified to hold this office." "
+", "climate", 0.51113, "president obama endorses hillary: "i don t think there s ever been someone so qualified to hold this office." "
 "hillary_clinton", "race black lives matter
-", "lives", "0.41842, "rt  we have to make sure climate denial does not find a home in the white house. "
+", "lives", 0.41842, "rt  we have to make sure climate denial does not find a home in the white house. "
 "hillary_clinton", "gun second amendment gun free school
-", "school", "0.30668, "rt  sierra club has endorsed  for president! read our statement: "
+", "school", 0.30668, "rt  sierra club has endorsed  for president! read our statement: "
 "hillary_clinton", "crime justice death penalty
-", "justice", "0.32267, "rt  i keep saying hillary is the ultimate changemaker, and tonight she proved it. i couldn't be more proud. history made. #imw "
+", "justice", 0.32267, "rt  i keep saying hillary is the ultimate changemaker, and tonight she proved it. i couldn't be more proud. history made. #imw "
 "hillary_clinton", "crime justice racial profiling
-", "justice", "0.32267, "rt  i keep saying hillary is the ultimate changemaker, and tonight she proved it. i couldn't be more proud. history made. #imw "
+", "justice", 0.32267, "rt  i keep saying hillary is the ultimate changemaker, and tonight she proved it. i couldn't be more proud. history made. #imw "
 "hillary_clinton", "crime justice supreme court appointment
-", "justice", "0.32267, "rt  i keep saying hillary is the ultimate changemaker, and tonight she proved it. i couldn't be more proud. history made. #imw "
+", "justice", 0.32267, "rt  i keep saying hillary is the ultimate changemaker, and tonight she proved it. i couldn't be more proud. history made. #imw "
 "hillary_clinton", "race criminal justice system
-", "justice", "0.32267, "rt  i keep saying hillary is the ultimate changemaker, and tonight she proved it. i couldn't be more proud. history made. #imw "
+", "justice", 0.32267, "rt  i keep saying hillary is the ultimate changemaker, and tonight she proved it. i couldn't be more proud. history made. #imw "
 "hillary_clinton", "election citizens united campaign finance
-", "campaign", "0.48838, "we made history tonight but we have more work to do. chip in if you've got hillary's back: "
+", "campaign", 0.48838, "we made history tonight but we have more work to do. chip in if you've got hillary's back: "
 "hillary_clinton", "election public campaign financing
-", "campaign", "0.48838, "we made history tonight but we have more work to do. chip in if you've got hillary's back: "
+", "campaign", 0.48838, "we made history tonight but we have more work to do. chip in if you've got hillary's back: "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.31509, "we made history tonight but we have more work to do. chip in if you've got hillary's back: "
+", "us", 0.31509, "we made history tonight but we have more work to do. chip in if you've got hillary's back: "
 "hillary_clinton", "military war terror women combat
-", "women", "0.19887, "wish mom could have been here to see tonight. "
+", "women", 0.19887, "wish mom could have been here to see tonight. "
 "hillary_clinton", "gun second amendment gun control
-", "amendment", "0.28337, "wish mom could have been here to see tonight. "
+", "amendment", 0.28337, "wish mom could have been here to see tonight. "
 "hillary_clinton", "gun second amendment gun free school
-", "amendment", "0.28337, "wish mom could have been here to see tonight. "
+", "amendment", 0.28337, "wish mom could have been here to see tonight. "
 "hillary_clinton", "gun second amendment gun violence research
-", "amendment", "0.28337, "wish mom could have been here to see tonight. "
+", "amendment", 0.28337, "wish mom could have been here to see tonight. "
 "hillary_clinton", "gun second amendment no fly list
-", "amendment", "0.28337, "wish mom could have been here to see tonight. "
+", "amendment", 0.28337, "wish mom could have been here to see tonight. "
 "hillary_clinton", "health care abortion end of life right to health care
-", "right", "0.32267, "wish mom could have been here to see tonight. "
+", "right", 0.32267, "wish mom could have been here to see tonight. "
 "hillary_clinton", "education common care
-", "common", "0.52434, ""on the very day mom was being born in chicago, congress was passing the 19th amendment to the constitution giving women the right to vote.""
+", "common", 0.52434, ""on the very day mom was being born in chicago, congress was passing the 19th amendment to the constitution giving women the right to vote.""
 "hillary_clinton", "election citizens united campaign finance
-", "election", "0.69912, ""we are stronger when we respect each other, listen to each other, and act with a sense of common purpose."  hillary"
+", "election", 0.69912, ""we are stronger when we respect each other, listen to each other, and act with a sense of common purpose."  hillary"
 "hillary_clinton", "election felon voting
-", "election", "0.69912, ""we are stronger when we respect each other, listen to each other, and act with a sense of common purpose."  hillary"
+", "election", 0.69912, ""we are stronger when we respect each other, listen to each other, and act with a sense of common purpose."  hillary"
 "hillary_clinton", "election photo identification
-", "election", "0.69912, ""we are stronger when we respect each other, listen to each other, and act with a sense of common purpose."  hillary"
+", "election", 0.69912, ""we are stronger when we respect each other, listen to each other, and act with a sense of common purpose."  hillary"
 "hillary_clinton", "election public campaign financing
-", "election", "0.69912, ""we are stronger when we respect each other, listen to each other, and act with a sense of common purpose."  hillary"
+", "election", 0.69912, ""we are stronger when we respect each other, listen to each other, and act with a sense of common purpose."  hillary"
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.31509, "this election isn t about the same old fights between democrats and republicans it s about who we are as americans. "
+", "us", 0.31509, "this election isn t about the same old fights between democrats and republicans it s about who we are as americans. "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.28008, ""as your president, i will always have your back."  hillary"
+", "us", 0.28008, ""as your president, i will always have your back."  hillary"
 "hillary_clinton", "military war terror women combat
-", "women", "0.28725, ""as your president, i will always have your back."  hillary"
+", "women", 0.28725, ""as your president, i will always have your back."  hillary"
 "hillary_clinton", "election citizens united campaign finance
-", "united", "0.35015, "we reached this moment thanks to the struggle and sacrifice of generations of women and men before us."
+", "united", 0.35015, "we reached this moment thanks to the struggle and sacrifice of generations of women and men before us."
 "hillary_clinton", "education tuition free colleges university
-", "free", "0.65717, "ready. "
+", "free", 0.65717, "ready. "
 "hillary_clinton", "gun second amendment gun free school
-", "free", "0.65717, "ready. "
+", "free", 0.65717, "ready. "
 "hillary_clinton", "election citizens united campaign finance
-", "campaign", "0.43411, "thanks to you, we made history tonight. celebrate with a free magnet: "
+", "campaign", 0.43411, "thanks to you, we made history tonight. celebrate with a free magnet: "
 "hillary_clinton", "election public campaign financing
-", "campaign", "0.43411, "thanks to you, we made history tonight. celebrate with a free magnet: "
+", "campaign", 0.43411, "thanks to you, we made history tonight. celebrate with a free magnet: "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.25207, "to every little girl who dreams big: yes, you can be anything you want even president. tonight is for you. -h "
+", "us", 0.25207, "to every little girl who dreams big: yes, you can be anything you want even president. tonight is for you. -h "
 "hillary_clinton", "economy taxes glass steagall
-", "glass", "0.34956, "let's build an america that respects and embraces the potential of every last one of us.
+", "glass", 0.34956, "let's build an america that respects and embraces the potential of every last one of us.
 "
 "hillary_clinton", "election felon voting
-", "voting", "0.34956, "hoy es tu día de votar por hillary. rt esto y déjale saber a tus amigos: #estoyconella "
+", "voting", 0.34956, "hoy es tu día de votar por hillary. rt esto y déjale saber a tus amigos: #estoyconella "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.22916, "estamos al borde de un momento histórico, pero todavía tenemos trabajo que hacer. 
+", "us", 0.22916, "estamos al borde de un momento histórico, pero todavía tenemos trabajo que hacer. 
 
 sigamos luchando por cada voto: "
 "hillary_clinton", "election citizens united campaign finance
-", "election", "0.52434, "rt  what she said.👇🏼 let s have a great turnout tomorrow! "
+", "election", 0.52434, "rt  what she said.👇🏼 let s have a great turnout tomorrow! "
 "hillary_clinton", "election felon voting
-", "election", "0.52434, "rt  what she said.👇🏼 let s have a great turnout tomorrow! "
+", "election", 0.52434, "rt  what she said.👇🏼 let s have a great turnout tomorrow! "
 "hillary_clinton", "election photo identification
-", "election", "0.52434, "rt  what she said.👇🏼 let s have a great turnout tomorrow! "
+", "election", 0.52434, "rt  what she said.👇🏼 let s have a great turnout tomorrow! "
 "hillary_clinton", "election public campaign financing
-", "election", "0.52434, "rt  what she said.👇🏼 let s have a great turnout tomorrow! "
+", "election", 0.52434, "rt  what she said.👇🏼 let s have a great turnout tomorrow! "
 "hillary_clinton", "race black lives matter
-", "lives", "0.37193, ""nobody's going to be left in this country that he's exempted from insults."  hillary on trump in california: "
+", "lives", 0.37193, ""nobody's going to be left in this country that he's exempted from insults."  hillary on trump in california: "
 "hillary_clinton", "gun second amendment gun control
-", "gun", "0.38906, ""nobody's going to be left in this country that he's exempted from insults."  hillary on trump in california: "
+", "gun", 0.38906, ""nobody's going to be left in this country that he's exempted from insults."  hillary on trump in california: "
 "hillary_clinton", "gun second amendment gun free school
-", "gun", "0.38906, ""nobody's going to be left in this country that he's exempted from insults."  hillary on trump in california: "
+", "gun", 0.38906, ""nobody's going to be left in this country that he's exempted from insults."  hillary on trump in california: "
 "hillary_clinton", "gun second amendment gun violence research
-", "violence", "0.43411, ""nobody's going to be left in this country that he's exempted from insults."  hillary on trump in california: "
+", "violence", 0.43411, ""nobody's going to be left in this country that he's exempted from insults."  hillary on trump in california: "
 "hillary_clinton", "gun second amendment gun violence research
-", "gun", "0.38906, ""nobody's going to be left in this country that he's exempted from insults."  hillary on trump in california: "
+", "gun", 0.38906, ""nobody's going to be left in this country that he's exempted from insults."  hillary on trump in california: "
 "hillary_clinton", "gun second amendment no fly list
-", "gun", "0.38906, ""nobody's going to be left in this country that he's exempted from insults."  hillary on trump in california: "
+", "gun", 0.38906, ""nobody's going to be left in this country that he's exempted from insults."  hillary on trump in california: "
 "hillary_clinton", "race black lives matter
-", "lives", "0.2391, ""hillary clinton is the better candidate to take on trump"   "
+", "lives", 0.2391, ""hillary clinton is the better candidate to take on trump"   "
 "hillary_clinton", "labor wages family medical leave
-", "family", "0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
+", "family", 0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
 "
 "hillary_clinton", "health care abortion end of life
-", "health", "0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
+", "health", 0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
 "
 "hillary_clinton", "health care abortion end of life obamacare
-", "health", "0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
+", "health", 0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
 "
 "hillary_clinton", "health care abortion end of life teen parental consent
-", "health", "0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
+", "health", 0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
 "
 "hillary_clinton", "health care abortion end of life physician assisted suicide
-", "health", "0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
+", "health", 0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
 "
 "hillary_clinton", "health care abortion end of life planned parenthood funding
-", "health", "0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
+", "health", 0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
 "
 "hillary_clinton", "health care abortion end of life right to health care
-", "health", "0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
+", "health", 0.32267, ""we must stand against hate wherever it rears its ugly head."  hillary in 2000
 "
 "hillary_clinton", "education common care
-", "care", "0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
+", "care", 0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
 "hillary_clinton", "military war terror women combat
-", "women", "0.25853, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
+", "women", 0.25853, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
 "hillary_clinton", "health care abortion end of life
-", "care", "0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
+", "care", 0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
 "hillary_clinton", "health care abortion end of life obamacare
-", "care", "0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
+", "care", 0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
 "hillary_clinton", "health care abortion end of life teen parental consent
-", "care", "0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
+", "care", 0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
 "hillary_clinton", "health care abortion end of life physician assisted suicide
-", "care", "0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
+", "care", 0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
 "hillary_clinton", "health care abortion end of life planned parenthood funding
-", "care", "0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
+", "care", 0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
 "hillary_clinton", "health care abortion end of life right to health care
-", "care", "0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
+", "care", 0.41947, "as we begin ramadan, i wish all muslims a blessed time of reflection, family, and good health. ramadan mubarak. -h"
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.22916, "these california esl students are using hillary's 1995 speech in beijing to learn english.
+", "us", 0.22916, "these california esl students are using hillary's 1995 speech in beijing to learn english.
 "
 "hillary_clinton", "election citizens united campaign finance
-", "united", "0.31832, "rt  breaking: clinton is projected winner in u.s. virgin islands dem caucus  #decision2016 "
+", "united", 0.31832, "rt  breaking: clinton is projected winner in u.s. virgin islands dem caucus  #decision2016 "
 "hillary_clinton", "election citizens united campaign finance
-", "united", "0.31832, "increíble.
+", "united", 0.31832, "increíble.
 "
 "hillary_clinton", "race affirmative action college admission
-", "race", "0.46002, "it's time to judge donald trump by his words and his deeds. and they make him unfit to be president of the united states."
+", "race", 0.46002, "it's time to judge donald trump by his words and his deeds. and they make him unfit to be president of the united states."
 "hillary_clinton", "race black lives matter
-", "race", "0.46002, "it's time to judge donald trump by his words and his deeds. and they make him unfit to be president of the united states."
+", "race", 0.46002, "it's time to judge donald trump by his words and his deeds. and they make him unfit to be president of the united states."
 "hillary_clinton", "race black lives matter
-", "matter", "0.41947, "it's time to judge donald trump by his words and his deeds. and they make him unfit to be president of the united states."
+", "matter", 0.41947, "it's time to judge donald trump by his words and his deeds. and they make him unfit to be president of the united states."
 "hillary_clinton", "race criminal justice system
-", "race", "0.46002, "it's time to judge donald trump by his words and his deeds. and they make him unfit to be president of the united states."
+", "race", 0.46002, "it's time to judge donald trump by his words and his deeds. and they make him unfit to be president of the united states."
 "hillary_clinton", "labor wages family medical leave
-", "family", "0.32267, "trump said the judge presiding over a lawsuit against trump u. should be disqualified from his job because of his  mexican heritage. "
+", "family", 0.32267, "trump said the judge presiding over a lawsuit against trump u. should be disqualified from his job because of his  mexican heritage. "
 "hillary_clinton", "military war terror isis fight us ground troops
-", "us", "0.31509, "el emocionante momento cuando  pudo votar por primera vez. ¡felicitaciones!
+", "us", 0.31509, "el emocionante momento cuando  pudo votar por primera vez. ¡felicitaciones!
 "
 "cynthia_mckinney", "military war terror drone strikes
-", "military", "0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "military", "0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.37056, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+", "us", 0.37056, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "military", "0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
 "cynthia_mckinney", "military war terror budget
-", "military", "0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
 "cynthia_mckinney", "military war terror women combat
-", "military", "0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
 "cynthia_mckinney", "military war terror nsa surveillance
-", "military", "0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "military", "0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
 "cynthia_mckinney", "labor wages family medical leave
-", "leave", "0.34744, "why is the headline "congressmen downplay meeting with gunman's dad" being replace everywhere online?  "
+", "leave", 0.34744, "why is the headline "congressmen downplay meeting with gunman's dad" being replace everywhere online?  "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.18528, "why is the headline "congressmen downplay meeting with gunman's dad" being replace everywhere online?  "
+", "us", 0.18528, "why is the headline "congressmen downplay meeting with gunman's dad" being replace everywhere online?  "
 "cynthia_mckinney", "military war terror drone strikes
-", "military", "0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
+", "military", 0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "military", "0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
+", "military", 0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.13078, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
+", "us", 0.13078, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "military", "0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
+", "military", 0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
 "cynthia_mckinney", "military war terror budget
-", "military", "0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
+", "military", 0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
 "cynthia_mckinney", "military war terror women combat
-", "military", "0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
+", "military", 0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
 "cynthia_mckinney", "military war terror nsa surveillance
-", "military", "0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
+", "military", 0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "military", "0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
+", "military", 0.22833, " well, that's not what i get from filippinos who want their country back. they kicked the u.s. out but the guest won't leave."
 "cynthia_mckinney", "foreign policy china threat
-", "policy", "0.37902, " why?"
+", "policy", 0.37902, " why?"
 "cynthia_mckinney", "foreign policy cuba embargo
-", "policy", "0.37902, " why?"
+", "policy", 0.37902, " why?"
 "cynthia_mckinney", "foreign policy nuclear deal iran
-", "policy", "0.37902, " why?"
+", "policy", 0.37902, " why?"
 "cynthia_mckinney", "foreign policy palestanian statehood
-", "policy", "0.37902, " why?"
+", "policy", 0.37902, " why?"
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.40424, " why?"
+", "us", 0.40424, " why?"
 "cynthia_mckinney", "labor wages family medical leave
-", "family", "0.52116, " and he was known by the fbi."
+", "family", 0.52116, " and he was known by the fbi."
 "cynthia_mckinney", "science environment climate change
-", "change", "0.59561, "they need to take off those vr glasses! "
+", "change", 0.59561, "they need to take off those vr glasses! "
 "cynthia_mckinney", "military war terror drone strikes
-", "war", "0.47833, " without proof which makes it so bad."
+", "war", 0.47833, " without proof which makes it so bad."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "war", "0.47833, " without proof which makes it so bad."
+", "war", 0.47833, " without proof which makes it so bad."
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "war", "0.47833, " without proof which makes it so bad."
+", "war", 0.47833, " without proof which makes it so bad."
 "cynthia_mckinney", "military war terror budget
-", "war", "0.47833, " without proof which makes it so bad."
+", "war", 0.47833, " without proof which makes it so bad."
 "cynthia_mckinney", "military war terror women combat
-", "war", "0.47833, " without proof which makes it so bad."
+", "war", 0.47833, " without proof which makes it so bad."
 "cynthia_mckinney", "military war terror nsa surveillance
-", "war", "0.47833, " without proof which makes it so bad."
+", "war", 0.47833, " without proof which makes it so bad."
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "war", "0.47833, " without proof which makes it so bad."
+", "war", 0.47833, " without proof which makes it so bad."
 "cynthia_mckinney", "science environment climate change
-", "climate", "0.69487, " without proof which makes it so bad."
+", "climate", 0.69487, " without proof which makes it so bad."
 "cynthia_mckinney", "science environment climate change
-", "environment", "0.64693, " without proof which makes it so bad."
+", "environment", 0.64693, " without proof which makes it so bad."
 "cynthia_mckinney", "science environment gmo food mandatory labeling
-", "environment", "0.64693, " without proof which makes it so bad."
+", "environment", 0.64693, " without proof which makes it so bad."
 "cynthia_mckinney", "science environment keystone xl pipeline
-", "environment", "0.64693, " without proof which makes it so bad."
+", "environment", 0.64693, " without proof which makes it so bad."
 "cynthia_mckinney", "science environment renewable energy
-", "environment", "0.64693, " without proof which makes it so bad."
+", "environment", 0.64693, " without proof which makes it so bad."
 "cynthia_mckinney", "race black lives matter
-", "lives", "0.41588, "war isn't good for the environment or climate! #neverhillary"
+", "lives", 0.41588, "war isn't good for the environment or climate! #neverhillary"
 "cynthia_mckinney", "military war terror drone strikes
-", "war", "0.35875, "#neverhillary"
+", "war", 0.35875, "#neverhillary"
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "war", "0.35875, "#neverhillary"
+", "war", 0.35875, "#neverhillary"
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "war", "0.35875, "#neverhillary"
+", "war", 0.35875, "#neverhillary"
 "cynthia_mckinney", "military war terror budget
-", "war", "0.35875, "#neverhillary"
+", "war", 0.35875, "#neverhillary"
 "cynthia_mckinney", "military war terror women combat
-", "war", "0.35875, "#neverhillary"
+", "war", 0.35875, "#neverhillary"
 "cynthia_mckinney", "military war terror nsa surveillance
-", "war", "0.35875, "#neverhillary"
+", "war", 0.35875, "#neverhillary"
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "war", "0.35875, "#neverhillary"
+", "war", 0.35875, "#neverhillary"
 "cynthia_mckinney", "science environment climate change
-", "climate", "0.52116, "#neverhillary"
+", "climate", 0.52116, "#neverhillary"
 "cynthia_mckinney", "science environment climate change
-", "environment", "0.4852, "#neverhillary"
+", "environment", 0.4852, "#neverhillary"
 "cynthia_mckinney", "science environment gmo food mandatory labeling
-", "environment", "0.4852, "#neverhillary"
+", "environment", 0.4852, "#neverhillary"
 "cynthia_mckinney", "science environment keystone xl pipeline
-", "environment", "0.4852, "#neverhillary"
+", "environment", 0.4852, "#neverhillary"
 "cynthia_mckinney", "science environment renewable energy
-", "environment", "0.4852, "#neverhillary"
+", "environment", 0.4852, "#neverhillary"
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "right", "0.33219, "trump helped to railroad five innocent young men to prison. is he even sorry for what he did to their lives? "
+", "right", 0.33219, "trump helped to railroad five innocent young men to prison. is he even sorry for what he did to their lives? "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.37056, "    cute!"
+", "us", 0.37056, "    cute!"
 "cynthia_mckinney", "military war terror drone strikes
-", "war", "0.40999, " well, i'll keep trying to protect us all from them."
+", "war", 0.40999, " well, i'll keep trying to protect us all from them."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "war", "0.40999, " well, i'll keep trying to protect us all from them."
+", "war", 0.40999, " well, i'll keep trying to protect us all from them."
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "war", "0.40999, " well, i'll keep trying to protect us all from them."
+", "war", 0.40999, " well, i'll keep trying to protect us all from them."
 "cynthia_mckinney", "military war terror budget
-", "war", "0.40999, " well, i'll keep trying to protect us all from them."
+", "war", 0.40999, " well, i'll keep trying to protect us all from them."
 "cynthia_mckinney", "military war terror women combat
-", "war", "0.40999, " well, i'll keep trying to protect us all from them."
+", "war", 0.40999, " well, i'll keep trying to protect us all from them."
 "cynthia_mckinney", "military war terror nsa surveillance
-", "war", "0.40999, " well, i'll keep trying to protect us all from them."
+", "war", 0.40999, " well, i'll keep trying to protect us all from them."
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "war", "0.40999, " well, i'll keep trying to protect us all from them."
+", "war", 0.40999, " well, i'll keep trying to protect us all from them."
 "cynthia_mckinney", "science environment climate change
-", "environment", "0.55451, " well, i'll keep trying to protect us all from them."
+", "environment", 0.55451, " well, i'll keep trying to protect us all from them."
 "cynthia_mckinney", "science environment gmo food mandatory labeling
-", "environment", "0.55451, " well, i'll keep trying to protect us all from them."
+", "environment", 0.55451, " well, i'll keep trying to protect us all from them."
 "cynthia_mckinney", "science environment keystone xl pipeline
-", "environment", "0.55451, " well, i'll keep trying to protect us all from them."
+", "environment", 0.55451, " well, i'll keep trying to protect us all from them."
 "cynthia_mckinney", "science environment renewable energy
-", "environment", "0.55451, " well, i'll keep trying to protect us all from them."
+", "environment", 0.55451, " well, i'll keep trying to protect us all from them."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.24704, "clearly the surge of tweeters subscribing to my account are hillary trolls!"
+", "us", 0.24704, "clearly the surge of tweeters subscribing to my account are hillary trolls!"
 "cynthia_mckinney", "military war terror drone strikes
-", "war", "0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
+", "war", 0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "war", "0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
+", "war", 0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "war", "0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
+", "war", 0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
 "cynthia_mckinney", "military war terror budget
-", "war", "0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
+", "war", 0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
 "cynthia_mckinney", "military war terror women combat
-", "war", "0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
+", "war", 0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
 "cynthia_mckinney", "military war terror nsa surveillance
-", "war", "0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
+", "war", 0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "war", "0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
+", "war", 0.287, "  obama's red lines advance the israel objectives in the region and you do, too, if you support what the u.s. is doing."
 "cynthia_mckinney", "education tuition free colleges university
-", "free", "0.32677, "rt   endorsers of hillary endorse fascism     "
+", "free", 0.32677, "rt   endorsers of hillary endorse fascism     "
 "cynthia_mckinney", "election citizens united campaign finance
-", "citizens", "0.32677, "rt   endorsers of hillary endorse fascism     "
+", "citizens", 0.32677, "rt   endorsers of hillary endorse fascism     "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.15881, "rt   endorsers of hillary endorse fascism     "
+", "us", 0.15881, "rt   endorsers of hillary endorse fascism     "
 "cynthia_mckinney", "gun second amendment gun free school
-", "free", "0.32677, "rt   endorsers of hillary endorse fascism     "
+", "free", 0.32677, "rt   endorsers of hillary endorse fascism     "
 "cynthia_mckinney", "military war terror drone strikes
-", "military", "0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
+", "military", 0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "military", "0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
+", "military", 0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "military", "0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
+", "military", 0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
 "cynthia_mckinney", "military war terror budget
-", "military", "0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
+", "military", 0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
 "cynthia_mckinney", "military war terror women combat
-", "military", "0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
+", "military", 0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
 "cynthia_mckinney", "military war terror nsa surveillance
-", "military", "0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
+", "military", 0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "military", "0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
+", "military", 0.4852, " reich should be the last one to endorse, but you know, we all gotta eat."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.37056, "    absolutely. anyone who endorses hillary was never on people's side. we know she means war."
+", "us", 0.37056, "    absolutely. anyone who endorses hillary was never on people's side. we know she means war."
 "cynthia_mckinney", "military war terror drone strikes
-", "war", "0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
+", "war", 0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "war", "0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
+", "war", 0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "war", "0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
+", "war", 0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
 "cynthia_mckinney", "military war terror budget
-", "war", "0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
+", "war", 0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
 "cynthia_mckinney", "military war terror women combat
-", "war", "0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
+", "war", 0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
 "cynthia_mckinney", "military war terror nsa surveillance
-", "war", "0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
+", "war", 0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "war", "0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
+", "war", 0.31888, "don't you get it yet? the u.s. gov is out to get you! it knows no boundaries. only u.s. voters can stop the madness. "
 "cynthia_mckinney", "military war terror drone strikes
-", "war", "0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "war", "0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "war", "0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
 "cynthia_mckinney", "military war terror budget
-", "war", "0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
 "cynthia_mckinney", "military war terror women combat
-", "war", "0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
 "cynthia_mckinney", "military war terror nsa surveillance
-", "war", "0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "war", "0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
 "cynthia_mckinney", "race criminal justice system
-", "criminal", "0.91494, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+", "criminal", 0.91494, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
 "cynthia_mckinney", "education common care
-", "education", "1.38975, " yes, i can believe so. it's politics; it's business for some people."
+", "education", 1.38975, " yes, i can believe so. it's politics; it's business for some people."
 "cynthia_mckinney", "education tuition free colleges university
-", "education", "1.38975, " yes, i can believe so. it's politics; it's business for some people."
+", "education", 1.38975, " yes, i can believe so. it's politics; it's business for some people."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.17103, "rt  don't believe the corporate media's hype... "
+", "us", 0.17103, "rt  don't believe the corporate media's hype... "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.20212, "what will bernie do? flashback: was bernie just sheepdogging for hillary? "
+", "us", 0.20212, "what will bernie do? flashback: was bernie just sheepdogging for hillary? "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.34205, "meanwhile, the march to wwiii continues in the real world as u.s., india, japan wargame at china's front doorstep. "
+", "us", 0.34205, "meanwhile, the march to wwiii continues in the real world as u.s., india, japan wargame at china's front doorstep. "
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "right", "1.66097, "there wasn't much democracy in the u.s. left, hillary just stole that, like she did in haiti. president? prosecute! "
+", "right", 1.66097, "there wasn't much democracy in the u.s. left, hillary just stole that, like she did in haiti. president? prosecute! "
 "cynthia_mckinney", "election felon voting
-", "voting", "0.41588, " puerto rico put her to within 30 delegates, counting the superdelegates? again, people of color vote for her?"
+", "voting", 0.41588, " puerto rico put her to within 30 delegates, counting the superdelegates? again, people of color vote for her?"
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "right", "0.36911, "foul!!!! hillary declared winner before the voting in california and new jersey even takes place? "
+", "right", 0.36911, "foul!!!! hillary declared winner before the voting in california and new jersey even takes place? "
 "cynthia_mckinney", "election photo identification
-", "photo", "0.97039, "if i were there, i'd be fighting to protect them right now. and better serve the veterans who answered the call. "
+", "photo", 0.97039, "if i were there, i'd be fighting to protect them right now. and better serve the veterans who answered the call. "
 "cynthia_mckinney", "science environment renewable energy
-", "energy", "0.3519, "  great response, tom!"
+", "energy", 0.3519, "  great response, tom!"
 "cynthia_mckinney", "military war terror women combat
-", "women", "0.45747, "breaking:  r.i.p. muhammad ali. "
+", "women", 0.45747, "breaking:  r.i.p. muhammad ali. "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.20212, " and james earl ray, and sirhan sirhan . . . and a host of others."
+", "us", 0.20212, " and james earl ray, and sirhan sirhan . . . and a host of others."
 "cynthia_mckinney", "military war terror drone strikes
-", "terror", "0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
+", "terror", 0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "terror", "0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
+", "terror", 0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "terror", "0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
+", "terror", 0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
 "cynthia_mckinney", "military war terror budget
-", "terror", "0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
+", "terror", 0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
 "cynthia_mckinney", "military war terror women combat
-", "terror", "0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
+", "terror", 0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
 "cynthia_mckinney", "military war terror nsa surveillance
-", "terror", "0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
+", "terror", 0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "terror", "0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
+", "terror", 0.45747, "look at this printed in the wall street journal: hillary might not be the nominee. "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.27792, "question: how do we the people of the u.s. best advance our interests at the point of implosion of the current political configuration?"
+", "us", 0.27792, "question: how do we the people of the u.s. best advance our interests at the point of implosion of the current political configuration?"
 "cynthia_mckinney", "military war terror drone strikes
-", "war", "0.22077, " and this one from antonello venditti "
+", "war", 0.22077, " and this one from antonello venditti "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "war", "0.22077, " and this one from antonello venditti "
+", "war", 0.22077, " and this one from antonello venditti "
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "war", "0.22077, " and this one from antonello venditti "
+", "war", 0.22077, " and this one from antonello venditti "
 "cynthia_mckinney", "military war terror budget
-", "war", "0.22077, " and this one from antonello venditti "
+", "war", 0.22077, " and this one from antonello venditti "
 "cynthia_mckinney", "military war terror women combat
-", "war", "0.22077, " and this one from antonello venditti "
+", "war", 0.22077, " and this one from antonello venditti "
 "cynthia_mckinney", "military war terror nsa surveillance
-", "war", "0.22077, " and this one from antonello venditti "
+", "war", 0.22077, " and this one from antonello venditti "
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "war", "0.22077, " and this one from antonello venditti "
+", "war", 0.22077, " and this one from antonello venditti "
 "cynthia_mckinney", "election photo identification
-", "photo", "1.94078, " cute!"
+", "photo", 1.94078, " cute!"
 "cynthia_mckinney", "race affirmative action college admission
-", "action", "0.3519, "two wings, one bird. "
+", "action", 0.3519, "two wings, one bird. "
 "cynthia_mckinney", "health care abortion end of life planned parenthood funding
-", "planned", "0.3519, "two wings, one bird. "
+", "planned", 0.3519, "two wings, one bird. "
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "right", "1.66097, " done."
+", "right", 1.66097, " done."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.37056, " thank you!"
+", "us", 0.37056, " thank you!"
 "cynthia_mckinney", "foreign policy china threat
-", "policy", "0.41692, " i believe my first stalker was one of those "art students.""
+", "policy", 0.41692, " i believe my first stalker was one of those "art students.""
 "cynthia_mckinney", "foreign policy cuba embargo
-", "policy", "0.41692, " i believe my first stalker was one of those "art students.""
+", "policy", 0.41692, " i believe my first stalker was one of those "art students.""
 "cynthia_mckinney", "foreign policy nuclear deal iran
-", "policy", "0.41692, " i believe my first stalker was one of those "art students.""
+", "policy", 0.41692, " i believe my first stalker was one of those "art students.""
 "cynthia_mckinney", "foreign policy palestanian statehood
-", "policy", "0.41692, " i believe my first stalker was one of those "art students.""
+", "policy", 0.41692, " i believe my first stalker was one of those "art students.""
 "cynthia_mckinney", "military war terror drone strikes
-", "war", "0.287, "   that's right!"
+", "war", 0.287, "   that's right!"
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "war", "0.287, "   that's right!"
+", "war", 0.287, "   that's right!"
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.22233, "   that's right!"
+", "us", 0.22233, "   that's right!"
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "war", "0.287, "   that's right!"
+", "war", 0.287, "   that's right!"
 "cynthia_mckinney", "military war terror budget
-", "war", "0.287, "   that's right!"
+", "war", 0.287, "   that's right!"
 "cynthia_mckinney", "military war terror women combat
-", "war", "0.287, "   that's right!"
+", "war", 0.287, "   that's right!"
 "cynthia_mckinney", "military war terror nsa surveillance
-", "war", "0.287, "   that's right!"
+", "war", 0.287, "   that's right!"
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "war", "0.287, "   that's right!"
+", "war", 0.287, "   that's right!"
 "cynthia_mckinney", "health care abortion end of life
-", "life", "0.45747, "   that's right!"
+", "life", 0.45747, "   that's right!"
 "cynthia_mckinney", "health care abortion end of life obamacare
-", "life", "0.45747, "   that's right!"
+", "life", 0.45747, "   that's right!"
 "cynthia_mckinney", "health care abortion end of life teen parental consent
-", "life", "0.45747, "   that's right!"
+", "life", 0.45747, "   that's right!"
 "cynthia_mckinney", "health care abortion end of life physician assisted suicide
-", "life", "0.45747, "   that's right!"
+", "life", 0.45747, "   that's right!"
 "cynthia_mckinney", "health care abortion end of life planned parenthood funding
-", "life", "0.45747, "   that's right!"
+", "life", 0.45747, "   that's right!"
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "life", "0.45747, "   that's right!"
+", "life", 0.45747, "   that's right!"
 "cynthia_mckinney", "crime justice death penalty
-", "justice", "0.41588, "   these governments are u.s./israel proxies."
+", "justice", 0.41588, "   these governments are u.s./israel proxies."
 "cynthia_mckinney", "crime justice racial profiling
-", "justice", "0.41588, "   these governments are u.s./israel proxies."
+", "justice", 0.41588, "   these governments are u.s./israel proxies."
 "cynthia_mckinney", "crime justice supreme court appointment
-", "justice", "0.41588, "   these governments are u.s./israel proxies."
+", "justice", 0.41588, "   these governments are u.s./israel proxies."
 "cynthia_mckinney", "race criminal justice system
-", "justice", "0.41588, "   these governments are u.s./israel proxies."
+", "justice", 0.41588, "   these governments are u.s./israel proxies."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.20212, " me, too.  i'm sorry and dedicate my life to stopping the u.s. war machine at home and abroad."
+", "us", 0.20212, " me, too.  i'm sorry and dedicate my life to stopping the u.s. war machine at home and abroad."
 "cynthia_mckinney", "labor wages family medical leave
-", "leave", "1.04231, "  thank you so much for this!! jamil's continued incarceration exposes our ultimate weakness."
+", "leave", 1.04231, "  thank you so much for this!! jamil's continued incarceration exposes our ultimate weakness."
 "cynthia_mckinney", "labor wages family medical leave
-", "family", "1.38975, " oh, what a beautiful picture.  just as beautiful as hedy's spirit is."
+", "family", 1.38975, " oh, what a beautiful picture.  just as beautiful as hedy's spirit is."
 "cynthia_mckinney", "election photo identification
-", "photo", "1.29385, " oh, what a beautiful picture.  just as beautiful as hedy's spirit is."
+", "photo", 1.29385, " oh, what a beautiful picture.  just as beautiful as hedy's spirit is."
 "cynthia_mckinney", "economy taxes gold standard
-", "standard", "0.41588, "what a gem of a rendition!!!!  this is it!!!! nina simone!!!! "
+", "standard", 0.41588, "what a gem of a rendition!!!!  this is it!!!! nina simone!!!! "
 "cynthia_mckinney", "immigration syrian refugees
-", "syrian", "0.38123, " posting this on fb."
+", "syrian", 0.38123, " posting this on fb."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.37056, " posting this on fb."
+", "us", 0.37056, " posting this on fb."
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.27792, " oh my gosh!!!!!  now, we're really getting down!!!!!  wow!!!!!!  what a precious find!!!!!!!"
+", "us", 0.27792, " oh my gosh!!!!!  now, we're really getting down!!!!!  wow!!!!!!  what a precious find!!!!!!!"
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "right", "0.66439, " it tells me the video is not available!  :-("
+", "right", 0.66439, " it tells me the video is not available!  :-("
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "right", "0.27683, " "
+", "right", 0.27683, " "
 "cynthia_mckinney", "military war terror drone strikes
-", "war", "0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
+", "war", 0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "war", "0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
+", "war", 0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "war", "0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
+", "war", 0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
 "cynthia_mckinney", "military war terror budget
-", "war", "0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
+", "war", 0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
 "cynthia_mckinney", "military war terror women combat
-", "war", "0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
+", "war", 0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
 "cynthia_mckinney", "military war terror nsa surveillance
-", "war", "0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
+", "war", 0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "war", "0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
+", "war", 0.287, " of course, roberta flack set the standard on that song years later.  why can't i find it on youtube?"
 "cynthia_mckinney", "immigration e-verify system
-", "system", "0.41588, " unfortunately, i think you're absolutely right!"
+", "system", 0.41588, " unfortunately, i think you're absolutely right!"
 "cynthia_mckinney", "race criminal justice system
-", "system", "0.41588, " unfortunately, i think you're absolutely right!"
+", "system", 0.41588, " unfortunately, i think you're absolutely right!"
 "cynthia_mckinney", "crime justice death penalty
-", "penalty", "0.60996, " you're right, but there ought to be an audience for it. i guess there's no market. seems there's a market for everything else!"
+", "penalty", 0.60996, " you're right, but there ought to be an audience for it. i guess there's no market. seems there's a market for everything else!"
 "cynthia_mckinney", "crime justice death penalty
-", "death", "0.60996, " you're right, but there ought to be an audience for it. i guess there's no market. seems there's a market for everything else!"
+", "death", 0.60996, " you're right, but there ought to be an audience for it. i guess there's no market. seems there's a market for everything else!"
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.27792, "  hey, you found him!!!! i loved his commentary during president obama's war against libya!!! tell him i love him!"
+", "us", 0.27792, "  hey, you found him!!!! i loved his commentary during president obama's war against libya!!! tell him i love him!"
 "cynthia_mckinney", "science environment climate change
-", "change", "0.83385, " i'm telling you, some of us have shouted the problems to the rafters, without effect."
+", "change", 0.83385, " i'm telling you, some of us have shouted the problems to the rafters, without effect."
 "cynthia_mckinney", "foreign policy china threat
-", "threat", "1.5249, "people in south dekalb used to have representation and i dedicated the congressional office to saving people's... "
+", "threat", 1.5249, "people in south dekalb used to have representation and i dedicated the congressional office to saving people's... "
 "cynthia_mckinney", "immigration fence/wall along us-mexico border
-", "along", "0.57184, " discusses 9/11 and the saudis. "
+", "along", 0.57184, " discusses 9/11 and the saudis. "
 "cynthia_mckinney", "military war terror drone strikes
-", "war", "0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
+", "war", 0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "us", "0.31762, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
+", "us", 0.31762, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "war", "0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
+", "war", 0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
 "cynthia_mckinney", "military war terror gunatanamo bay
-", "war", "0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
+", "war", 0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
 "cynthia_mckinney", "military war terror budget
-", "war", "0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
+", "war", 0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
 "cynthia_mckinney", "military war terror women combat
-", "war", "0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
+", "war", 0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
 "cynthia_mckinney", "military war terror nsa surveillance
-", "war", "0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
+", "war", 0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
 "cynthia_mckinney", "military war terror torture enhance interrogation
-", "war", "0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
+", "war", 0.205, "paul thompson of 9/11 timeline fame now has a clinton e-mail timeline.  good reading. "
 "cynthia_mckinney", "education common care
-", "care", "0.33258, "rt       "
+", "care", 0.33258, "rt       "
 "cynthia_mckinney", "health care abortion end of life
-", "health", "0.70574, "rt       "
+", "health", 0.70574, "rt       "
 "cynthia_mckinney", "health care abortion end of life
-", "care", "0.33258, "rt       "
+", "care", 0.33258, "rt       "
 "cynthia_mckinney", "health care abortion end of life obamacare
-", "health", "0.70574, "rt       "
+", "health", 0.70574, "rt       "
 "cynthia_mckinney", "health care abortion end of life obamacare
-", "care", "0.33258, "rt       "
+", "care", 0.33258, "rt       "
 "cynthia_mckinney", "health care abortion end of life teen parental consent
-", "health", "0.70574, "rt       "
+", "health", 0.70574, "rt       "
 "cynthia_mckinney", "health care abortion end of life teen parental consent
-", "care", "0.33258, "rt       "
+", "care", 0.33258, "rt       "
 "cynthia_mckinney", "health care abortion end of life physician assisted suicide
-", "health", "0.70574, "rt       "
+", "health", 0.70574, "rt       "
 "cynthia_mckinney", "health care abortion end of life physician assisted suicide
-", "care", "0.33258, "rt       "
+", "care", 0.33258, "rt       "
 "cynthia_mckinney", "health care abortion end of life planned parenthood funding
-", "health", "0.70574, "rt       "
+", "health", 0.70574, "rt       "
 "cynthia_mckinney", "health care abortion end of life planned parenthood funding
-", "care", "0.33258, "rt       "
+", "care", 0.33258, "rt       "
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "health", "0.70574, "rt       "
+", "health", 0.70574, "rt       "
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "care", "0.33258, "rt       "
+", "care", 0.33258, "rt       "
 "cynthia_mckinney", "economy taxes social security privatization
-", "security", "0.38123, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "security", 0.38123, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "education common care
-", "education", "0.34744, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "education", 0.34744, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "education common care
-", "care", "0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "care", 0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "education tuition free colleges university
-", "education", "0.34744, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "education", 0.34744, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "health care abortion end of life
-", "health", "0.32346, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "health", 0.32346, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "health care abortion end of life
-", "care", "0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "care", 0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "health care abortion end of life obamacare
-", "health", "0.32346, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "health", 0.32346, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "health care abortion end of life obamacare
-", "care", "0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "care", 0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "health care abortion end of life teen parental consent
-", "health", "0.32346, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "health", 0.32346, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "health care abortion end of life teen parental consent
-", "care", "0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "care", 0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "health care abortion end of life physician assisted suicide
-", "health", "0.32346, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "health", 0.32346, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "health care abortion end of life physician assisted suicide
-", "care", "0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "care", 0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "health care abortion end of life planned parenthood funding
-", "health", "0.32346, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "health", 0.32346, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "health care abortion end of life planned parenthood funding
-", "care", "0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "care", 0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "health", "0.32346, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "health", 0.32346, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "care", "0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
+", "care", 0.30487, "  thanks for letting me know about this!  he joins the legions along with hillary who were wrong."
 "cynthia_mckinney", "education common care
-", "care", "0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
+", "care", 0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
 "cynthia_mckinney", "health care abortion end of life
-", "care", "0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
+", "care", 0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
 "cynthia_mckinney", "health care abortion end of life obamacare
-", "care", "0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
+", "care", 0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
 "cynthia_mckinney", "health care abortion end of life teen parental consent
-", "care", "0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
+", "care", 0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
 "cynthia_mckinney", "health care abortion end of life physician assisted suicide
-", "care", "0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
+", "care", 0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
 "cynthia_mckinney", "health care abortion end of life planned parenthood funding
-", "care", "0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
+", "care", 0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "care", "0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
+", "care", 0.4573, "  thanks, listening now!  yes, jeff halper is good!!!"
 "cynthia_mckinney", "education common care
-", "care", "0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "care", 0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "military war terror isis fight us ground troops
-", "fight", "0.76245, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "fight", 0.76245, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "health care abortion end of life
-", "health", "0.64693, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "health", 0.64693, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "health care abortion end of life
-", "care", "0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "care", 0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "health care abortion end of life obamacare
-", "health", "0.64693, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "health", 0.64693, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "health care abortion end of life obamacare
-", "care", "0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "care", 0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "health care abortion end of life teen parental consent
-", "health", "0.64693, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "health", 0.64693, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "health care abortion end of life teen parental consent
-", "care", "0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "care", 0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "health care abortion end of life physician assisted suicide
-", "health", "0.64693, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "health", 0.64693, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "health care abortion end of life physician assisted suicide
-", "care", "0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "care", 0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "health care abortion end of life planned parenthood funding
-", "health", "0.64693, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "health", 0.64693, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "health care abortion end of life planned parenthood funding
-", "care", "0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "care", 0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "health", "0.64693, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "health", 0.64693, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "health care abortion end of life right to health care
-", "care", "0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
+", "care", 0.60974, "sidney blumenthal, a zionist embedded inside the u.s. deep state, trading secrets, activating the u.s. war machine? "
 "cynthia_mckinney", "foreign policy nuclear deal iran
-", "iran", "0.65353, "george galloway discusses the extremely close relationship between israel and saudi arabia. "
+", "iran", 0.65353, "george galloway discusses the extremely close relationship between israel and saudi arabia. "
 "gary_johnson", "race affirmative action college admission
-", "race", "0.41846, "thoughts are with the #orlando victims &amp; a community who has been attacked. it's a time to mourn, be strong &amp; be what makes america great."
+", "race", 0.41846, "thoughts are with the #orlando victims &amp; a community who has been attacked. it's a time to mourn, be strong &amp; be what makes america great."
 "gary_johnson", "race black lives matter
-", "race", "0.41846, "thoughts are with the #orlando victims &amp; a community who has been attacked. it's a time to mourn, be strong &amp; be what makes america great."
+", "race", 0.41846, "thoughts are with the #orlando victims &amp; a community who has been attacked. it's a time to mourn, be strong &amp; be what makes america great."
 "gary_johnson", "race criminal justice system
-", "race", "0.41846, "thoughts are with the #orlando victims &amp; a community who has been attacked. it's a time to mourn, be strong &amp; be what makes america great."
+", "race", 0.41846, "thoughts are with the #orlando victims &amp; a community who has been attacked. it's a time to mourn, be strong &amp; be what makes america great."
 "gary_johnson", "military war terror isis fight us ground troops
-", "us", "1.29897, "poll: libertarian johnson tops clinton among independents
+", "us", 1.29897, "poll: libertarian johnson tops clinton among independents
 
 "
 "gary_johnson", "health care abortion end of life right to health care
-", "right", "0.51001, "my friend  doing some heavy lifting for good govt. check it out!  #libertarian #2016election "
+", "right", 0.51001, "my friend  doing some heavy lifting for good govt. check it out!  #libertarian #2016election "
 "gary_johnson", "election citizens united campaign finance
-", "election", "0.57376, "joining  with  for facebook live. tune in now:
+", "election", 0.57376, "joining  with  for facebook live. tune in now:
  #garyjohnsondcmediatour day 1, stop 4"
 "gary_johnson", "election felon voting
-", "election", "0.57376, "joining  with  for facebook live. tune in now:
+", "election", 0.57376, "joining  with  for facebook live. tune in now:
  #garyjohnsondcmediatour day 1, stop 4"
 "gary_johnson", "election photo identification
-", "election", "0.57376, "joining  with  for facebook live. tune in now:
+", "election", 0.57376, "joining  with  for facebook live. tune in now:
  #garyjohnsondcmediatour day 1, stop 4"
 "gary_johnson", "election public campaign financing
-", "election", "0.57376, "joining  with  for facebook live. tune in now:
+", "election", 0.57376, "joining  with  for facebook live. tune in now:
  #garyjohnsondcmediatour day 1, stop 4"
 "gary_johnson", "military war terror isis fight us ground troops
-", "us", "0.5567, "h/t to  "
+", "us", 0.5567, "h/t to  "
 "gary_johnson", "health care abortion end of life
-", "life", "0.91801, "rt  . we wouldn t be doing this if there weren t the opportunity to actually win the white house. "
+", "life", 0.91801, "rt  . we wouldn t be doing this if there weren t the opportunity to actually win the white house. "
 "gary_johnson", "health care abortion end of life obamacare
-", "life", "0.91801, "rt  . we wouldn t be doing this if there weren t the opportunity to actually win the white house. "
+", "life", 0.91801, "rt  . we wouldn t be doing this if there weren t the opportunity to actually win the white house. "
 "gary_johnson", "health care abortion end of life teen parental consent
-", "life", "0.91801, "rt  . we wouldn t be doing this if there weren t the opportunity to actually win the white house. "
+", "life", 0.91801, "rt  . we wouldn t be doing this if there weren t the opportunity to actually win the white house. "
 "gary_johnson", "health care abortion end of life physician assisted suicide
-", "life", "0.91801, "rt  . we wouldn t be doing this if there weren t the opportunity to actually win the white house. "
+", "life", 0.91801, "rt  . we wouldn t be doing this if there weren t the opportunity to actually win the white house. "
 "gary_johnson", "health care abortion end of life planned parenthood funding
-", "life", "0.91801, "rt  . we wouldn t be doing this if there weren t the opportunity to actually win the white house. "
+", "life", 0.91801, "rt  . we wouldn t be doing this if there weren t the opportunity to actually win the white house. "
 "gary_johnson", "health care abortion end of life right to health care
-", "life", "0.91801, "rt  . we wouldn t be doing this if there weren t the opportunity to actually win the white house. "
+", "life", 0.91801, "rt  . we wouldn t be doing this if there weren t the opportunity to actually win the white house. "
 "gary_johnson", "economy taxes coporate income jobs
-", "jobs", "0.64378, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
+", "jobs", 0.64378, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
 "gary_johnson", "economy taxes coporate income jobs
-", "taxes", "0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
+", "taxes", 0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
 "gary_johnson", "economy taxes federal tax increase
-", "taxes", "0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
+", "taxes", 0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
 "gary_johnson", "economy taxes federal oil subsidies
-", "taxes", "0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
+", "taxes", 0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
 "gary_johnson", "economy taxes flat
-", "taxes", "0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
+", "taxes", 0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
 "gary_johnson", "economy taxes glass steagall
-", "taxes", "0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
+", "taxes", 0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
 "gary_johnson", "economy taxes gold standard
-", "taxes", "0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
+", "taxes", 0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
 "gary_johnson", "economy taxes social security privatization
-", "taxes", "0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
+", "taxes", 0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
 "gary_johnson", "economy taxes trans pacific partnership tpp
-", "taxes", "0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
+", "taxes", 0.32189, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
 "gary_johnson", "immigration fence/wall along us-mexico border
-", "border", "0.51001, ". and i talked about the proper role of government with  on  daily. #teamgov "
+", "border", 0.51001, ". and i talked about the proper role of government with  on  daily. #teamgov "
 "gary_johnson", "military war terror isis fight us ground troops
-", "fight", "1.14751, "if  calls 2 fiscally conservative, 2-term govs from blue states to be "fringe", then that's what we are. #fringecandidates"
+", "fight", 1.14751, "if  calls 2 fiscally conservative, 2-term govs from blue states to be "fringe", then that's what we are. #fringecandidates"
 "gary_johnson", "military war terror isis fight us ground troops
-", "ground", "0.69743, "thanks for a tough fight austin. "
+", "ground", 0.69743, "thanks for a tough fight austin. "
 "gary_johnson", "election citizens united campaign finance
-", "campaign", "0.55622, "rt  . libertarians represent the best of both parties
+", "campaign", 0.55622, "rt  . libertarians represent the best of both parties
 "
 "gary_johnson", "election public campaign financing
-", "campaign", "0.55622, "rt  . libertarians represent the best of both parties
+", "campaign", 0.55622, "rt  . libertarians represent the best of both parties
 "
 "gary_johnson", "military war terror isis fight us ground troops
-", "us", "0.43299, "rt  today  won the #libertarian presidential nomination. he s polling well (10%) vs trump and clinton: "
+", "us", 0.43299, "rt  today  won the #libertarian presidential nomination. he s polling well (10%) vs trump and clinton: "
 "gary_johnson", "election felon voting
-", "voting", "0.306, "thanks rob! "
+", "voting", 0.306, "thanks rob! "
 "gary_johnson", "military war terror isis fight us ground troops
-", "troops", "0.65572, "rt  . says if he gets the nomination this morning, he'll be on a plane to ny tomorrow for media opportunities"
+", "troops", 0.65572, "rt  . says if he gets the nomination this morning, he'll be on a plane to ny tomorrow for media opportunities"
 "gary_johnson", "election citizens united campaign finance
-", "campaign", "0.37081, "rt  bill weld -  vp pick - says he's comfortable in new role bc "not carrying the baggage of half the repub "
+", "campaign", 0.37081, "rt  bill weld -  vp pick - says he's comfortable in new role bc "not carrying the baggage of half the repub "
 "gary_johnson", "election public campaign financing
-", "campaign", "0.37081, "rt  bill weld -  vp pick - says he's comfortable in new role bc "not carrying the baggage of half the repub "
+", "campaign", 0.37081, "rt  bill weld -  vp pick - says he's comfortable in new role bc "not carrying the baggage of half the repub "
 "gary_johnson", "election citizens united campaign finance
-", "campaign", "0.20858, "rt  . libertarian  may draw voters disenchanted with trump &amp; clinton  v "
+", "campaign", 0.20858, "rt  . libertarian  may draw voters disenchanted with trump &amp; clinton  v "
 "gary_johnson", "election public campaign financing
-", "campaign", "0.20858, "rt  . libertarian  may draw voters disenchanted with trump &amp; clinton  v "
+", "campaign", 0.20858, "rt  . libertarian  may draw voters disenchanted with trump &amp; clinton  v "
 "gary_johnson", "election citizens united campaign finance
-", "campaign", "0.17565, "just spoke to the troops! time to get down and vote! #teamgov #garyjohnson2016 "
+", "campaign", 0.17565, "just spoke to the troops! time to get down and vote! #teamgov #garyjohnson2016 "
 "gary_johnson", "election public campaign financing
-", "campaign", "0.17565, "just spoke to the troops! time to get down and vote! #teamgov #garyjohnson2016 "
+", "campaign", 0.17565, "just spoke to the troops! time to get down and vote! #teamgov #garyjohnson2016 "
 "gary_johnson", "economy taxes coporate income jobs
-", "economy", "0.51001, "nice to see  again.  is having a good time too. #teamgov "
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes coporate income jobs
-", "jobs", "0.46495, "nice to see  again.  is having a good time too. #teamgov "
+", "jobs", 0.46495, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes coporate income jobs
-", "taxes", "0.46495, "nice to see  again.  is having a good time too. #teamgov "
+", "taxes", 0.46495, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes federal tax increase
-", "economy", "0.51001, "nice to see  again.  is having a good time too. #teamgov "
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes federal tax increase
-", "taxes", "0.46495, "nice to see  again.  is having a good time too. #teamgov "
+", "taxes", 0.46495, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes federal oil subsidies
-", "economy", "0.51001, "nice to see  again.  is having a good time too. #teamgov "
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes federal oil subsidies
-", "taxes", "0.46495, "nice to see  again.  is having a good time too. #teamgov "
+", "taxes", 0.46495, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes flat
-", "economy", "0.51001, "nice to see  again.  is having a good time too. #teamgov "
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes flat
-", "taxes", "0.46495, "nice to see  again.  is having a good time too. #teamgov "
+", "taxes", 0.46495, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes glass steagall
-", "economy", "0.51001, "nice to see  again.  is having a good time too. #teamgov "
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes glass steagall
-", "taxes", "0.46495, "nice to see  again.  is having a good time too. #teamgov "
+", "taxes", 0.46495, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes gold standard
-", "economy", "0.51001, "nice to see  again.  is having a good time too. #teamgov "
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes gold standard
-", "taxes", "0.46495, "nice to see  again.  is having a good time too. #teamgov "
+", "taxes", 0.46495, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes social security privatization
-", "economy", "0.51001, "nice to see  again.  is having a good time too. #teamgov "
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes social security privatization
-", "taxes", "0.46495, "nice to see  again.  is having a good time too. #teamgov "
+", "taxes", 0.46495, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes trans pacific partnership tpp
-", "economy", "0.51001, "nice to see  again.  is having a good time too. #teamgov "
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "economy taxes trans pacific partnership tpp
-", "taxes", "0.46495, "nice to see  again.  is having a good time too. #teamgov "
+", "taxes", 0.46495, "nice to see  again.  is having a good time too. #teamgov "
 "gary_johnson", "sex gender religious liberty
-", "liberty", "0.45901, "rt  "given that this is 2016, no result should be ruled out"  talking polls &amp;  "
+", "liberty", 0.45901, "rt  "given that this is 2016, no result should be ruled out"  talking polls &amp;  "
 "gary_johnson", "election citizens united campaign finance
-", "campaign", "0.55622, "thank you, rudy! #libertarian #tlot #makeamericasaneagain "
+", "campaign", 0.55622, "thank you, rudy! #libertarian #tlot #makeamericasaneagain "
 "gary_johnson", "election public campaign financing
-", "campaign", "0.55622, "thank you, rudy! #libertarian #tlot #makeamericasaneagain "
+", "campaign", 0.55622, "thank you, rudy! #libertarian #tlot #makeamericasaneagain "
 "gary_johnson", "race affirmative action college admission
-", "race", "0.5978, "rt  libertarian vp candidate: "we would like to get into the national dialogue"   #cnnsotu "
+", "race", 0.5978, "rt  libertarian vp candidate: "we would like to get into the national dialogue"   #cnnsotu "
 "gary_johnson", "race black lives matter
-", "race", "0.5978, "rt  libertarian vp candidate: "we would like to get into the national dialogue"   #cnnsotu "
+", "race", 0.5978, "rt  libertarian vp candidate: "we would like to get into the national dialogue"   #cnnsotu "
 "gary_johnson", "race criminal justice system
-", "race", "0.5978, "rt  libertarian vp candidate: "we would like to get into the national dialogue"   #cnnsotu "
+", "race", 0.5978, "rt  libertarian vp candidate: "we would like to get into the national dialogue"   #cnnsotu "
 "gary_johnson", "health care abortion end of life physician assisted suicide
-", "suicide", "0.83456, "rt  about to go live with  "
+", "suicide", 0.83456, "rt  about to go live with  "
 "gary_johnson", "gun second amendment gun free school
-", "school", "0.51001, "some early a.m. 9-ball with  #libertarian #tlot #whereisgaryjohnson "
+", "school", 0.51001, "some early a.m. 9-ball with  #libertarian #tlot #whereisgaryjohnson "
 "gary_johnson", "election citizens united campaign finance
-", "campaign", "0.47676, "nothing better than attending  w/ the one &amp; only  #libertarian #tlot #whereisgaryjohnson "
+", "campaign", 0.47676, "nothing better than attending  w/ the one &amp; only  #libertarian #tlot #whereisgaryjohnson "
 "gary_johnson", "election public campaign financing
-", "campaign", "0.47676, "nothing better than attending  w/ the one &amp; only  #libertarian #tlot #whereisgaryjohnson "
+", "campaign", 0.47676, "nothing better than attending  w/ the one &amp; only  #libertarian #tlot #whereisgaryjohnson "
 "gary_johnson", "education tuition free colleges university
-", "free", "0.3825, "yes, that michael medved. looking forward to it. #libertarian #tcot #tlot "
+", "free", 0.3825, "yes, that michael medved. looking forward to it. #libertarian #tcot #tlot "
 "gary_johnson", "gun second amendment gun free school
-", "free", "0.3825, "yes, that michael medved. looking forward to it. #libertarian #tcot #tlot "
+", "free", 0.3825, "yes, that michael medved. looking forward to it. #libertarian #tcot #tlot "
 "gary_johnson", "military war terror isis fight us ground troops
-", "ground", "0.38042, "our latest video: "what i can do". (hint: tell the truth) take a look -- and feel free to share.  #libertarian #tlot"
+", "ground", 0.38042, "our latest video: "what i can do". (hint: tell the truth) take a look -- and feel free to share.  #libertarian #tlot"
 "gary_johnson", "health care abortion end of life
-", "end", "0.45901, "thank you, hal gill!  "
+", "end", 0.45901, "thank you, hal gill!  "
 "gary_johnson", "health care abortion end of life obamacare
-", "end", "0.45901, "thank you, hal gill!  "
+", "end", 0.45901, "thank you, hal gill!  "
 "gary_johnson", "health care abortion end of life teen parental consent
-", "end", "0.45901, "thank you, hal gill!  "
+", "end", 0.45901, "thank you, hal gill!  "
 "gary_johnson", "health care abortion end of life physician assisted suicide
-", "end", "0.45901, "thank you, hal gill!  "
+", "end", 0.45901, "thank you, hal gill!  "
 "gary_johnson", "health care abortion end of life planned parenthood funding
-", "end", "0.45901, "thank you, hal gill!  "
+", "end", 0.45901, "thank you, hal gill!  "
 "gary_johnson", "health care abortion end of life right to health care
-", "end", "0.45901, "thank you, hal gill!  "
+", "end", 0.45901, "thank you, hal gill!  "
 "gary_johnson", "crime justice supreme court appointment
-", "appointment", "0.65572, "a very good day for gary johnson  #libertarian #tlot"
+", "appointment", 0.65572, "a very good day for gary johnson  #libertarian #tlot"

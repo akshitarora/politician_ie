@@ -57,7 +57,7 @@ def tfidf(word, blob, bloblist):
 punctuation = list(string.punctuation)
 stemmer = PorterStemmer() #for stemming
 fo = open("output.txt","rb+")
-foo3 = io.open("output5.txt","w",encoding='utf8') #final output
+foo3 = io.open("output6.txt","w",encoding='utf8') #final output
 jsonLoaded = json.loads(fo.read().decode('utf8', 'ignore')) #json object loaded 
 fo.close()
 
@@ -110,7 +110,7 @@ for lastName,v in jsonLoaded.iteritems():
 			topic_score = {word: tfidf(word,blob,bloblist) for word in topic_key}
 			topic_sorted_words = sorted(topic_score.items(), key=lambda x: x[1], reverse=True)
 			for word, score in topic_sorted_words[:3]:
-				if score > 0.0:
+				if score > 1.0:
 					#print '\n'
 					#print topic_key
 					#print '  :  '
@@ -121,7 +121,7 @@ for lastName,v in jsonLoaded.iteritems():
 					#print line
 					print str(round(score,5))
 					#print myList2[i]
-					foo3.write('"'+lastName+'", "'+line+'", "'+word+'", "'+str(round(score, 5)).strip()+', "'+myList2[i]+'"')
+					foo3.write('"'+lastName+'", "'+line+'", "'+word+'", '+str(round(score, 5)).strip()+', "'+myList2[i]+'"')
 					foo3.write('\n')
 					continue
 				#print '\n'

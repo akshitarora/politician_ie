@@ -121,7 +121,7 @@ for lastName,v in jsonLoaded.iteritems():
 					#print line
 					print str(round(score,5))
 					#print myList2[i]
-					foo3.write('"'+lastName+'", "'+line+'", '+str(round(score, 5)).strip()+', "'+myList2[i]+'"')
+					foo3.write('"'+lastName+'", "'+line+'", "'+word+'", '+str(round(score, 5)).strip()+', "'+myList2[i]+'"')
 					foo3.write('\n')
 					continue
 				#print '\n'
