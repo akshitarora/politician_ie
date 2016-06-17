@@ -1,0 +1,390 @@
+"gary_johnson", "military war terror isis fight us ground troops
+", "us", 1.29897, "poll: libertarian johnson tops clinton among independents
+
+"
+"gary_johnson", "health care abortion end of life right to health care
+", "right", 0.51001, "my friend  doing some heavy lifting for good govt. check it out!  #libertarian #2016election "
+"gary_johnson", "election citizens united campaign finance
+", "election", 0.57376, "joining  with  for facebook live. tune in now:
+ #garyjohnsondcmediatour day 1, stop 4"
+"gary_johnson", "election felon voting
+", "election", 0.57376, "joining  with  for facebook live. tune in now:
+ #garyjohnsondcmediatour day 1, stop 4"
+"gary_johnson", "election photo identification
+", "election", 0.57376, "joining  with  for facebook live. tune in now:
+ #garyjohnsondcmediatour day 1, stop 4"
+"gary_johnson", "election public campaign financing
+", "election", 0.57376, "joining  with  for facebook live. tune in now:
+ #garyjohnsondcmediatour day 1, stop 4"
+"gary_johnson", "military war terror isis fight us ground troops
+", "us", 0.5567, "h/t to  "
+"gary_johnson", "health care abortion end of life
+", "life", 0.91801, "rt  . we wouldn’t be doing this if there weren’t the opportunity to actually win the white house. "
+"gary_johnson", "health care abortion end of life obamacare
+", "life", 0.91801, "rt  . we wouldn’t be doing this if there weren’t the opportunity to actually win the white house. "
+"gary_johnson", "health care abortion end of life teen parental consent
+", "life", 0.91801, "rt  . we wouldn’t be doing this if there weren’t the opportunity to actually win the white house. "
+"gary_johnson", "health care abortion end of life physician assisted suicide
+", "life", 0.91801, "rt  . we wouldn’t be doing this if there weren’t the opportunity to actually win the white house. "
+"gary_johnson", "health care abortion end of life planned parenthood funding
+", "life", 0.91801, "rt  . we wouldn’t be doing this if there weren’t the opportunity to actually win the white house. "
+"gary_johnson", "health care abortion end of life right to health care
+", "life", 0.91801, "rt  . we wouldn’t be doing this if there weren’t the opportunity to actually win the white house. "
+"gary_johnson", "economy taxes coporate income jobs
+", "jobs", 0.64378, "   not to intrude on the conversation, but must point out that abraham lincoln was a 3rd party candidate."
+"gary_johnson", "immigration fence/wall along us-mexico border
+", "border", 0.51001, ". and i talked about the proper role of government with  on  daily. #teamgov "
+"gary_johnson", "military war terror isis fight us ground troops
+", "fight", 1.14751, "if  calls 2 fiscally conservative, 2-term govs from blue states to be "fringe", then that's what we are. #fringecandidates"
+"gary_johnson", "military war terror isis fight us ground troops
+", "ground", 0.69743, "thanks for a tough fight austin. "
+"gary_johnson", "election citizens united campaign finance
+", "campaign", 0.55622, "rt  . libertarians represent the best of both parties
+"
+"gary_johnson", "election public campaign financing
+", "campaign", 0.55622, "rt  . libertarians represent the best of both parties
+"
+"gary_johnson", "military war terror isis fight us ground troops
+", "troops", 0.65572, "rt  . says if he gets the nomination this morning, he'll be on a plane to ny tomorrow for media opportunities"
+"gary_johnson", "economy taxes coporate income jobs
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
+"gary_johnson", "economy taxes federal tax increase
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
+"gary_johnson", "economy taxes federal oil subsidies
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
+"gary_johnson", "economy taxes flat
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
+"gary_johnson", "economy taxes glass steagall
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
+"gary_johnson", "economy taxes gold standard
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
+"gary_johnson", "economy taxes social security privatization
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
+"gary_johnson", "economy taxes trans pacific partnership tpp
+", "economy", 0.51001, "nice to see  again.  is having a good time too. #teamgov "
+"gary_johnson", "election citizens united campaign finance
+", "campaign", 0.55622, "thank you, rudy! #libertarian #tlot #makeamericasaneagain "
+"gary_johnson", "election public campaign financing
+", "campaign", 0.55622, "thank you, rudy! #libertarian #tlot #makeamericasaneagain "
+"gary_johnson", "health care abortion end of life physician assisted suicide
+", "suicide", 0.83456, "rt  about to go live with  "
+"gary_johnson", "gun second amendment gun free school
+", "school", 0.51001, "some early a.m. 9-ball with  #libertarian #tlot #whereisgaryjohnson "
+"hillary_clinton", "labor wages family medical leave
+", "labor", 0.76753, "hillary helped get health care for 8 million kids. one of the first ads of the general election:
+"
+"hillary_clinton", "labor wages federal minimum wage
+", "labor", 0.76753, "hillary helped get health care for 8 million kids. one of the first ads of the general election:
+"
+"hillary_clinton", "labor wages labor unions
+", "labor", 0.76753, "hillary helped get health care for 8 million kids. one of the first ads of the general election:
+"
+"hillary_clinton", "military war terror isis fight us ground troops
+", "fight", 1.22963, "belgium: donald trump's favorite "city."
+"
+"hillary_clinton", "election citizens united campaign finance
+", "campaign", 0.58443, "your  presidential nominee responding to a terrorist attack with lies and conspiracy theories.
+"
+"hillary_clinton", "election public campaign financing
+", "campaign", 0.58443, "your  presidential nominee responding to a terrorist attack with lies and conspiracy theories.
+"
+"hillary_clinton", "military war terror isis fight us ground troops
+", "troops", 0.51169, "america has always been a country of "we," not "me." and we've always been stronger together. "
+"hillary_clinton", "military war terror women combat
+", "combat", 0.51169, "america has always been a country of "we," not "me." and we've always been stronger together. "
+"hillary_clinton", "military war terror drone strikes
+", "terror", 0.52496, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.” —hillary "
+"hillary_clinton", "military war terror isis fight us ground troops
+", "terror", 0.52496, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.” —hillary "
+"hillary_clinton", "military war terror gunatanamo bay
+", "terror", 0.52496, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.” —hillary "
+"hillary_clinton", "military war terror budget
+", "terror", 0.52496, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.” —hillary "
+"hillary_clinton", "military war terror women combat
+", "terror", 0.52496, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.” —hillary "
+"hillary_clinton", "military war terror nsa surveillance
+", "terror", 0.52496, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.” —hillary "
+"hillary_clinton", "military war terror torture enhance interrogation
+", "terror", 0.52496, ""to the lgbt community: please know that you have millions of allies across our country. i am one of them.” —hillary "
+"hillary_clinton", "science environment climate change
+", "environment", 0.51169, ". is temperamentally unfit to be president and commander-in-chief.
+"
+"hillary_clinton", "science environment gmo food mandatory labeling
+", "environment", 0.51169, ". is temperamentally unfit to be president and commander-in-chief.
+"
+"hillary_clinton", "science environment keystone xl pipeline
+", "environment", 0.51169, ". is temperamentally unfit to be president and commander-in-chief.
+"
+"hillary_clinton", "science environment renewable energy
+", "environment", 0.51169, ". is temperamentally unfit to be president and commander-in-chief.
+"
+"hillary_clinton", "foreign policy china threat
+", "policy", 0.70849, ""she’s a fighter. she’s out there. she’s tough." — on hillary:  "
+"hillary_clinton", "foreign policy cuba embargo
+", "policy", 0.70849, ""she’s a fighter. she’s out there. she’s tough." — on hillary:  "
+"hillary_clinton", "foreign policy nuclear deal iran
+", "policy", 0.70849, ""she’s a fighter. she’s out there. she’s tough." — on hillary:  "
+"hillary_clinton", "foreign policy palestanian statehood
+", "policy", 0.70849, ""she’s a fighter. she’s out there. she’s tough." — on hillary:  "
+"hillary_clinton", "health care abortion end of life right to health care
+", "right", 0.52496, "rt  hey  meet part of hillary's policy team. we're pretty proud of her 201 pages of policy.  ht…"
+"hillary_clinton", "foreign policy nuclear deal iran
+", "deal", 0.76753, "trump can’t say he treats women with respect.
+
+(for once, he’s right.)
+"
+"hillary_clinton", "science environment climate change
+", "climate", 0.51169, "president obama endorses hillary: "i don’t think there’s ever been someone so qualified to hold this office." "
+"hillary_clinton", "race black lives matter
+", "lives", 0.50094, "rt  we have to make sure climate denial does not find a home in the white house. "
+"hillary_clinton", "education common care
+", "common", 0.52496, ""on the very day mom was being born in chicago, congress was passing the 19th amendment to the constitution—giving women the right to vote.""
+"hillary_clinton", "election citizens united campaign finance
+", "election", 0.55886, ""we are stronger when we respect each other, listen to each other, and act with a sense of common purpose." —hillary"
+"hillary_clinton", "election felon voting
+", "election", 0.55886, ""we are stronger when we respect each other, listen to each other, and act with a sense of common purpose." —hillary"
+"hillary_clinton", "election photo identification
+", "election", 0.55886, ""we are stronger when we respect each other, listen to each other, and act with a sense of common purpose." —hillary"
+"hillary_clinton", "election public campaign financing
+", "election", 0.55886, ""we are stronger when we respect each other, listen to each other, and act with a sense of common purpose." —hillary"
+"hillary_clinton", "education tuition free colleges university
+", "free", 0.65788, "ready. "
+"hillary_clinton", "gun second amendment gun free school
+", "free", 0.65788, "ready. "
+"barack_obama", "economy taxes federal tax increase
+", "federal", 0.51169, "this month and every month. #loveislove "
+"barack_obama", "economy taxes federal oil subsidies
+", "federal", 0.51169, "this month and every month. #loveislove "
+"barack_obama", "labor wages federal minimum wage
+", "federal", 0.51169, "this month and every month. #loveislove "
+"barack_obama", "education common care
+", "common", 0.57565, "unemployment rate ⬇
+federal deficit ⬇
+uninsured rate ⬇ "
+"barack_obama", "health care abortion end of life
+", "end", 0.52496, "the supreme court shouldn't be part of partisan political games. add your name if you agree: "
+"barack_obama", "health care abortion end of life obamacare
+", "end", 0.52496, "the supreme court shouldn't be part of partisan political games. add your name if you agree: "
+"barack_obama", "health care abortion end of life teen parental consent
+", "end", 0.52496, "the supreme court shouldn't be part of partisan political games. add your name if you agree: "
+"barack_obama", "health care abortion end of life physician assisted suicide
+", "end", 0.52496, "the supreme court shouldn't be part of partisan political games. add your name if you agree: "
+"barack_obama", "health care abortion end of life planned parenthood funding
+", "end", 0.52496, "the supreme court shouldn't be part of partisan political games. add your name if you agree: "
+"barack_obama", "health care abortion end of life right to health care
+", "end", 0.52496, "the supreme court shouldn't be part of partisan political games. add your name if you agree: "
+"barack_obama", "economy taxes federal tax increase
+", "increase", 0.57565, "make sure you have all the facts—sign up to be part of the  truth team.  "
+"barack_obama", "science environment renewable energy
+", "renewable", 0.57565, "make sure you have all the facts—sign up to be part of the  truth team.  "
+"barack_obama", "gun second amendment gun control
+", "gun", 0.77527, "rt  june 2 is almost here!
+
+how are you going to #wearorange tomorrow? "
+"barack_obama", "gun second amendment gun free school
+", "gun", 0.77527, "rt  june 2 is almost here!
+
+how are you going to #wearorange tomorrow? "
+"barack_obama", "gun second amendment gun violence research
+", "gun", 0.77527, "rt  june 2 is almost here!
+
+how are you going to #wearorange tomorrow? "
+"barack_obama", "gun second amendment no fly list
+", "gun", 0.77527, "rt  june 2 is almost here!
+
+how are you going to #wearorange tomorrow? "
+"barack_obama", "health care abortion end of life obamacare
+", "obamacare", 0.51169, "rt  it's graduation day at niles west high school! watch judge garland speak live at 1pm et:  "
+"barack_obama", "economy taxes social security privatization
+", "security", 0.51169, "don't miss this:  "
+"barack_obama", "sex gender gay marriage
+", "marriage", 0.51169, "stand up for middle-class workers—add your name to support the obama administration's new #overtime rule: "
+"barack_obama", "economy taxes coporate income jobs
+", "economy", 0.53648, "add your name if you support the obama administration's new #overtime rule that expands protections for millions: "
+"barack_obama", "economy taxes federal tax increase
+", "economy", 0.53648, "add your name if you support the obama administration's new #overtime rule that expands protections for millions: "
+"barack_obama", "economy taxes federal oil subsidies
+", "economy", 0.53648, "add your name if you support the obama administration's new #overtime rule that expands protections for millions: "
+"barack_obama", "economy taxes flat
+", "economy", 0.53648, "add your name if you support the obama administration's new #overtime rule that expands protections for millions: "
+"barack_obama", "economy taxes glass steagall
+", "economy", 0.53648, "add your name if you support the obama administration's new #overtime rule that expands protections for millions: "
+"barack_obama", "economy taxes gold standard
+", "economy", 0.53648, "add your name if you support the obama administration's new #overtime rule that expands protections for millions: "
+"barack_obama", "economy taxes social security privatization
+", "economy", 0.53648, "add your name if you support the obama administration's new #overtime rule that expands protections for millions: "
+"barack_obama", "economy taxes trans pacific partnership tpp
+", "economy", 0.53648, "add your name if you support the obama administration's new #overtime rule that expands protections for millions: "
+"barack_obama", "military war terror isis fight us ground troops
+", "fight", 0.8381, "rt  tune in this afternoon as  interviews president obama live from the white house on fb live and youtube! "
+"barack_obama", "labor wages family medical leave
+", "wages", 0.51169, "add your name if you think senate leaders need to stop obstructing our supreme court:  #doyourjob"
+"barack_obama", "labor wages federal minimum wage
+", "wages", 0.51169, "add your name if you think senate leaders need to stop obstructing our supreme court:  #doyourjob"
+"barack_obama", "labor wages labor unions
+", "wages", 0.51169, "add your name if you think senate leaders need to stop obstructing our supreme court:  #doyourjob"
+"barack_obama", "foreign policy china threat
+", "policy", 0.8373, "live: president obama honors the 2016 national teacher of the year. "
+"barack_obama", "foreign policy cuba embargo
+", "policy", 0.8373, "live: president obama honors the 2016 national teacher of the year. "
+"barack_obama", "foreign policy nuclear deal iran
+", "policy", 0.8373, "live: president obama honors the 2016 national teacher of the year. "
+"barack_obama", "foreign policy palestanian statehood
+", "policy", 0.8373, "live: president obama honors the 2016 national teacher of the year. "
+"barack_obama", "health care abortion end of life
+", "health", 0.97801, "watch professor obama take obstructionists in the senate back to school with #scotus 101. #doyourjob "
+"barack_obama", "health care abortion end of life obamacare
+", "health", 0.97801, "watch professor obama take obstructionists in the senate back to school with #scotus 101. #doyourjob "
+"barack_obama", "health care abortion end of life teen parental consent
+", "health", 0.97801, "watch professor obama take obstructionists in the senate back to school with #scotus 101. #doyourjob "
+"barack_obama", "health care abortion end of life physician assisted suicide
+", "health", 0.97801, "watch professor obama take obstructionists in the senate back to school with #scotus 101. #doyourjob "
+"barack_obama", "health care abortion end of life planned parenthood funding
+", "health", 0.97801, "watch professor obama take obstructionists in the senate back to school with #scotus 101. #doyourjob "
+"barack_obama", "health care abortion end of life right to health care
+", "health", 0.97801, "watch professor obama take obstructionists in the senate back to school with #scotus 101. #doyourjob "
+"barack_obama", "labor wages family medical leave
+", "family", 0.76753, "in the weekly address, president obama talks about his efforts to improve our criminal justice system.  #fixthesystem"
+"barack_obama", "race affirmative action college admission
+", "action", 0.55873, "rt  healthy parks = healthy planet 🌎
+#earthday #actonclimate "
+"barack_obama", "foreign policy nuclear deal iran
+", "deal", 0.83994, "rt  “today, on #earthday, our governments, along with about 170 others, are in new york to sign that agreement.” — https:…"
+"barack_obama", "foreign policy china threat
+", "threat", 0.51169, "this kind of senate obstructionism is completely unprecedented. #doyourjob "
+"donald_trump", "economy taxes coporate income jobs
+", "jobs", 0.55873, "mcallen, texas- 8 miles from 
+u.s. - mexico border. #trump2016 
+video:  "
+"donald_trump", "gun second amendment no fly list
+", "list", 0.76753, "thank you atlanta, georgia! will be back soon! #americafirst "
+"donald_trump", "immigration deportation raids
+", "immigration", 0.69995, "rt  anyone who plans to talk about trump ever again has to see this speech.  your opinion is irrelevant unless you listened to…"
+"donald_trump", "immigration e-verify system
+", "immigration", 0.69995, "rt  anyone who plans to talk about trump ever again has to see this speech.  your opinion is irrelevant unless you listened to…"
+"donald_trump", "immigration fence/wall along us-mexico border
+", "immigration", 0.69995, "rt  anyone who plans to talk about trump ever again has to see this speech.  your opinion is irrelevant unless you listened to…"
+"donald_trump", "immigration pathway to legalization
+", "immigration", 0.69995, "rt  anyone who plans to talk about trump ever again has to see this speech.  your opinion is irrelevant unless you listened to…"
+"donald_trump", "immigration sanctuary cities
+", "immigration", 0.69995, "rt  anyone who plans to talk about trump ever again has to see this speech.  your opinion is irrelevant unless you listened to…"
+"donald_trump", "immigration syrian refugees
+", "immigration", 0.69995, "rt  anyone who plans to talk about trump ever again has to see this speech.  your opinion is irrelevant unless you listened to…"
+"donald_trump", "economy taxes social security privatization
+", "security", 0.69995, "rt  anyone who plans to talk about trump ever again has to see this speech.  your opinion is irrelevant unless you listened to…"
+"donald_trump", "health care abortion end of life right to health care
+", "right", 0.67048, "thank you to all for your wonderful comments on my speech. i could feel the electricity in thr air. great reviews - most votes ever recieved"
+"donald_trump", "economy taxes coporate income jobs
+", "jobs", 0.67048, "thank you attorney general gonzales, so many people feel this way. 
+"
+"donald_trump", "education tuition free colleges university
+", "university", 0.55886, "" thank you mr. trump for standing up for our country! #votetrump2016 join me on the #trumptrain🚂 "
+"donald_trump", "economy taxes coporate income jobs
+", "jobs", 0.8381, "rally last night in san jose was great. tremendous love and enthusiasm in the hall. big crowd. outside, small group of thugs burned am flag!"
+"donald_trump", "economy taxes federal oil subsidies
+", "oil", 0.57565, "after  i will visit  in ireland, the magnificent resort fronting on the atlantic ocean."
+"donald_trump", "health care abortion end of life right to health care
+", "right", 0.8381, "rt  beautiful article about  written by my friend, the incredibly talented golfer natalie gulbis:
+"
+"donald_trump", "race criminal justice system
+", "criminal", 0.92103, ""  only trump can save america. right leader at the right time." thank you!"
+"donald_trump", "education common care
+", "care", 0.76753, "" donald trump and bikers share affection at rolling thunder rally  a great day in d.c.!"
+"donald_trump", "health care abortion end of life
+", "care", 0.76753, "" donald trump and bikers share affection at rolling thunder rally  a great day in d.c.!"
+"donald_trump", "health care abortion end of life obamacare
+", "care", 0.76753, "" donald trump and bikers share affection at rolling thunder rally  a great day in d.c.!"
+"donald_trump", "health care abortion end of life teen parental consent
+", "care", 0.76753, "" donald trump and bikers share affection at rolling thunder rally  a great day in d.c.!"
+"donald_trump", "health care abortion end of life physician assisted suicide
+", "care", 0.76753, "" donald trump and bikers share affection at rolling thunder rally  a great day in d.c.!"
+"donald_trump", "health care abortion end of life planned parenthood funding
+", "care", 0.76753, "" donald trump and bikers share affection at rolling thunder rally  a great day in d.c.!"
+"donald_trump", "health care abortion end of life right to health care
+", "care", 0.76753, "" donald trump and bikers share affection at rolling thunder rally  a great day in d.c.!"
+"cynthia_mckinney", "foreign policy china threat
+", "china", 0.76245, "even though more than 2 million votes remain uncounted in california, dnc belongs to clinton now. #neverhillary "
+"cynthia_mckinney", "military war terror drone strikes
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+"cynthia_mckinney", "military war terror isis fight us ground troops
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+"cynthia_mckinney", "military war terror gunatanamo bay
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+"cynthia_mckinney", "military war terror budget
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+"cynthia_mckinney", "military war terror women combat
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+"cynthia_mckinney", "military war terror nsa surveillance
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+"cynthia_mckinney", "military war terror torture enhance interrogation
+", "military", 0.64693, "now, it starts. why is there never 6º of separation from the military-industrial-complex for these guys?  he was... "
+"cynthia_mckinney", "labor wages family medical leave
+", "family", 0.52116, " and he was known by the fbi."
+"cynthia_mckinney", "science environment climate change
+", "change", 0.59561, "they need to take off those vr glasses! "
+"cynthia_mckinney", "science environment climate change
+", "climate", 0.69487, " without proof which makes it so bad."
+"cynthia_mckinney", "science environment climate change
+", "environment", 0.64693, " without proof which makes it so bad."
+"cynthia_mckinney", "science environment gmo food mandatory labeling
+", "environment", 0.64693, " without proof which makes it so bad."
+"cynthia_mckinney", "science environment keystone xl pipeline
+", "environment", 0.64693, " without proof which makes it so bad."
+"cynthia_mckinney", "science environment renewable energy
+", "environment", 0.64693, " without proof which makes it so bad."
+"cynthia_mckinney", "science environment climate change
+", "climate", 0.52116, "#neverhillary"
+"cynthia_mckinney", "science environment climate change
+", "environment", 0.55451, " well, i'll keep trying to protect us all from them."
+"cynthia_mckinney", "science environment gmo food mandatory labeling
+", "environment", 0.55451, " well, i'll keep trying to protect us all from them."
+"cynthia_mckinney", "science environment keystone xl pipeline
+", "environment", 0.55451, " well, i'll keep trying to protect us all from them."
+"cynthia_mckinney", "science environment renewable energy
+", "environment", 0.55451, " well, i'll keep trying to protect us all from them."
+"cynthia_mckinney", "military war terror drone strikes
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+"cynthia_mckinney", "military war terror isis fight us ground troops
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+"cynthia_mckinney", "military war terror gunatanamo bay
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+"cynthia_mckinney", "military war terror budget
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+"cynthia_mckinney", "military war terror women combat
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+"cynthia_mckinney", "military war terror nsa surveillance
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+"cynthia_mckinney", "military war terror torture enhance interrogation
+", "war", 0.57399, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+"cynthia_mckinney", "race criminal justice system
+", "criminal", 0.91494, "what is this? erad seizing 7% of all debit card police seizures? this is nothing more than wholesale stealing. we know who police stop."
+"cynthia_mckinney", "education common care
+", "education", 1.5249, " yes, i can believe so. it's politics; it's business for some people."
+"cynthia_mckinney", "education tuition free colleges university
+", "education", 1.5249, " yes, i can believe so. it's politics; it's business for some people."
+"cynthia_mckinney", "health care abortion end of life right to health care
+", "right", 1.66097, "there wasn't much democracy in the u.s. left, hillary just stole that, like she did in haiti. president? prosecute! "
+"cynthia_mckinney", "election photo identification
+", "photo", 0.97039, "if i were there, i'd be fighting to protect them right now. and better serve the veterans who answered the call. "
+"cynthia_mckinney", "election photo identification
+", "photo", 1.94078, " cute!"
+"cynthia_mckinney", "health care abortion end of life right to health care
+", "right", 1.66097, " done."
+"cynthia_mckinney", "labor wages family medical leave
+", "leave", 1.04231, "  thank you so much for this!! jamil's continued incarceration exposes our ultimate weakness."
+"cynthia_mckinney", "labor wages family medical leave
+", "family", 1.38975, " oh, what a beautiful picture.  just as beautiful as hedy's spirit is."
+"cynthia_mckinney", "election photo identification
+", "photo", 1.29385, " oh, what a beautiful picture.  just as beautiful as hedy's spirit is."
+"cynthia_mckinney", "health care abortion end of life right to health care
+", "right", 0.66439, " it tells me the video is not available!  :-("
+"cynthia_mckinney", "crime justice death penalty
+", "penalty", 0.60996, " you're right, but there ought to be an audience for it. i guess there's no market. seems there's a market for everything else!"
+"cynthia_mckinney", "crime justice death penalty
+", "death", 0.60996, " you're right, but there ought to be an audience for it. i guess there's no market. seems there's a market for everything else!"
+"cynthia_mckinney", "science environment climate change
+", "change", 0.83385, " i'm telling you, some of us have shouted the problems to the rafters, without effect."
+"cynthia_mckinney", "foreign policy china threat
+", "threat", 1.5249, "people in south dekalb used to have representation and i dedicated the congressional office to saving people's... "
+"cynthia_mckinney", "immigration fence/wall along us-mexico border
+", "along", 0.57184, " discusses 9/11 and the saudis. "

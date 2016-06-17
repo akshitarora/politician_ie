@@ -1,7 +1,16 @@
+"gary_johnson", "military war terror isis fight us ground troops
+", "us", 1.29897, "poll: libertarian johnson tops clinton among independents
+
+"
+"gary_johnson", "military war terror isis fight us ground troops
+", "fight", 1.14751, "if  calls 2 fiscally conservative, 2-term govs from blue states to be "fringe", then that's what we are. #fringecandidates"
+"hillary_clinton", "military war terror isis fight us ground troops
+", "fight", 1.22963, "belgium: donald trump's favorite "city."
+"
 "cynthia_mckinney", "education common care
-", "education", 1.38975, " yes, i can believe so. it's politics; it's business for some people."
+", "education", 1.5249, " yes, i can believe so. it's politics; it's business for some people."
 "cynthia_mckinney", "education tuition free colleges university
-", "education", 1.38975, " yes, i can believe so. it's politics; it's business for some people."
+", "education", 1.5249, " yes, i can believe so. it's politics; it's business for some people."
 "cynthia_mckinney", "health care abortion end of life right to health care
 ", "right", 1.66097, "there wasn't much democracy in the u.s. left, hillary just stole that, like she did in haiti. president? prosecute! "
 "cynthia_mckinney", "election photo identification
@@ -16,9 +25,3 @@
 ", "photo", 1.29385, " oh, what a beautiful picture.  just as beautiful as hedy's spirit is."
 "cynthia_mckinney", "foreign policy china threat
 ", "threat", 1.5249, "people in south dekalb used to have representation and i dedicated the congressional office to saving people's... "
-"gary_johnson", "military war terror isis fight us ground troops
-", "us", 1.29897, "poll: libertarian johnson tops clinton among independents
-
-"
-"gary_johnson", "military war terror isis fight us ground troops
-", "fight", 1.14751, "if  calls 2 fiscally conservative, 2-term govs from blue states to be "fringe", then that's what we are. #fringecandidates"

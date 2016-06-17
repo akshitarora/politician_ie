@@ -57,7 +57,7 @@ def tfidf(word, blob, bloblist):
 punctuation = list(string.punctuation)
 stemmer = PorterStemmer() #for stemming
 fo = open("output.txt","rb+")
-foo3 = io.open("output6.txt","w",encoding='utf8') #final output
+foo3 = io.open("output7.txt","w",encoding='utf8') #final output
 jsonLoaded = json.loads(fo.read().decode('utf8', 'ignore')) #json object loaded 
 fo.close()
 
@@ -70,13 +70,7 @@ for lastName,v in jsonLoaded.iteritems():
 	for i in v:
 		i['text'] = i['text'].lower()
 		i['text'] = re.sub(r"(?:\@|https?\://)\S+", "", i['text'])
-		i['text'] = string.replace(i['text'], u'\u2026', ' ')
-		i['text'] = string.replace(i['text'], u'\u2019', ' ')
-		i['text'] = string.replace(i['text'], u'\u201c', ' ')
-		i['text'] = string.replace(i['text'], u'\u201d', ' ')
-		i['text'] = string.replace(i['text'], u'\u200a', ' ')
-		i['text'] = string.replace(i['text'],u'\u2014',' ')
-		i['text'] = string.replace(i['text'],u'\u2192',' ')
+		
 		myList2.append(i['text'])
 		terms_stop = [term for term in i['text'] if term not in punctuation]
 		x='';
@@ -110,7 +104,7 @@ for lastName,v in jsonLoaded.iteritems():
 			topic_score = {word: tfidf(word,blob,bloblist) for word in topic_key}
 			topic_sorted_words = sorted(topic_score.items(), key=lambda x: x[1], reverse=True)
 			for word, score in topic_sorted_words[:3]:
-				if score > 1.0:
+				if score >= 0.5:
 					#print '\n'
 					#print topic_key
 					#print '  :  '

@@ -26,7 +26,7 @@ api = tweepy.API(auth_handler=auth,proxy="https://anz148198:07h5AK79bL@10.10.78.
 fo = open("output.txt","wb+")
 #defining a dictionary of politicianName:twitterHandles
 #politicians = {'trump':'realDonaldTrump', 'clinton':'HillaryClinton', 'modi':'narendramodi'}
-politicians = {'cynthia_mckinney':'cynthiamckinney', 'hillary_clinton':'HillaryClinton', 'gary_johnson':'GovGaryJohnson'}
+politicians = {'cynthia_mckinney':'cynthiamckinney', 'hillary_clinton':'HillaryClinton', 'gary_johnson':'GovGaryJohnson', 'donald_trump':'realDonaldTrump', 'barack_obama':'BarackObama'}
 fo.write('{')
 for lastName, twitterHandle in politicians.iteritems():
 	fo.write('\n'+'"'+lastName+'": [')
