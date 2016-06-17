@@ -28,7 +28,7 @@ from nltk.stem.porter import *
 import os
 import math
 from textblob import TextBlob as tb
-
+import io
 
 def stem_tokens(tokens, stemmer):
 	stemmed = []
@@ -57,8 +57,8 @@ def tfidf(word, blob, bloblist):
 punctuation = list(string.punctuation)
 stemmer = PorterStemmer() #for stemming
 fo = open("output.txt","rb+")
-foo3 = open("output5.txt","wb+") #final output
-jsonLoaded = json.loads(fo.read().decode('utf-8', 'ignore')) #json object loaded 
+foo3 = io.open("output5.txt","w",encoding='utf8') #final output
+jsonLoaded = json.loads(fo.read().decode('utf8', 'ignore')) #json object loaded 
 fo.close()
 
 #fo2 = open("output.txt","rb+")
@@ -69,9 +69,15 @@ for lastName,v in jsonLoaded.iteritems():
 	myList2 = []
 	for i in v:
 		i['text'] = i['text'].lower()
-		
 		i['text'] = re.sub(r"(?:\@|https?\://)\S+", "", i['text'])
-		myList2.insert(-1,i['text'])
+		i['text'] = string.replace(i['text'], u'\u2026', ' ')
+		i['text'] = string.replace(i['text'], u'\u2019', ' ')
+		i['text'] = string.replace(i['text'], u'\u201c', ' ')
+		i['text'] = string.replace(i['text'], u'\u201d', ' ')
+		i['text'] = string.replace(i['text'], u'\u200a', ' ')
+		i['text'] = string.replace(i['text'],u'\u2014',' ')
+		i['text'] = string.replace(i['text'],u'\u2192',' ')
+		myList2.append(i['text'])
 		terms_stop = [term for term in i['text'] if term not in punctuation]
 		x='';
 		#stemming:
@@ -93,31 +99,33 @@ for lastName,v in jsonLoaded.iteritems():
 	#print myList #this is my bloblist
 	bloblist = myList
 	for i,blob in enumerate(bloblist):
-		#calculating scores: i am not sure if we even need the next two lines here.
+		#calculating scores:
 		#scores = {word: tfidf(word,blob,bloblist) for word in blob.words}
 		#sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
-		fo4 = open("lot.txt","rb+") #list of topics
-		fo3 = fo4.read().decode('utf-8', 'ignore')
-		for line in fo3:
-			#print line
+		fo4 = open("lot.txt","r") #list of topics
+		for line in fo4.readlines():
+			line = line.decode('utf8', 'ignore')
 			line = line.lower()
-			topic_key =nltk.word_tokenize(line) #do not stem these, matching is affected
+			topic_key = word_tokenize(line) #do not stem these, matching is affected
 			topic_score = {word: tfidf(word,blob,bloblist) for word in topic_key}
 			topic_sorted_words = sorted(topic_score.items(), key=lambda x: x[1], reverse=True)
 			for word, score in topic_sorted_words[:3]:
-				if score > 0.5: 
-					print '\n'
-					print topic_key
-					print '  :  '
-					print myList2[i]
-					print("Word: {}, TF-IDF: {}".format(word, round(score, 5)))
-					print '\n'
-					print lastName
-					print line
+				if score > 0.0:
+					#print '\n'
+					#print topic_key
+					#print '  :  '
+					#print myList2[i]
+					#print("Word: {}, TF-IDF: {}".format(word, round(score, 5)))
+					#print '\n'
+					#print lastName
+					#print line
 					print str(round(score,5))
-					print myList2[i]
-					foo3.write('"'+lastName+'", "'+line+'", '+str(round(score, 5)).encode('utf-8').strip()+', "'+myList2[i]+'"')
-			#print '\n'
+					#print myList2[i]
+					foo3.write('"'+lastName+'", "'+line+'", '+str(round(score, 5)).strip()+', "'+myList2[i]+'"')
+					foo3.write('\n')
+					continue
+				#print '\n'
+			
 		fo4.close()
 	#following code runs perfectly!
 	"""
