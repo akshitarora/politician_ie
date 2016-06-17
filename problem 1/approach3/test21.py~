@@ -5,8 +5,9 @@
 
 # June 13 2016: tried http://www.cs.duke.edu/courses/spring14/compsci290/assignments/lab02.html 
 # June 15 2016: trying http://stevenloria.com/finding-important-words-in-a-document-using-tf-idf/
+# June 16 2016: all unicode errors got resolved https://gist.github.com/sloria/6407257 
 
-
+from __future__ import division, unicode_literals
 import json
 import pprint
 import re
@@ -28,6 +29,7 @@ import os
 import math
 from textblob import TextBlob as tb
 
+
 def stem_tokens(tokens, stemmer):
 	stemmed = []
 	for item in tokens:
@@ -35,38 +37,41 @@ def stem_tokens(tokens, stemmer):
 	return stemmed
 
 def tokenize(text):
-    tokens = nltk.word_tokenize(text)
-    stems = stem_tokens(tokens, stemmer)
-    return stems
+	tokens = nltk.word_tokenize(text)
+	stems = stem_tokens(tokens, stemmer)
+	return stems
 
 def tf(word, blob):
-    return blob.words.count(word) / len(blob.words)
+	return blob.words.count(word) / len(blob.words)
 
 def n_containing(word, bloblist):
-    return sum(1 for blob in bloblist if word in blob.words)
+	return sum(1 for blob in bloblist if word in blob.words)
 
 def idf(word, bloblist):
-    return math.log(len(bloblist) / (1 + n_containing(word, bloblist)))
+	return math.log(len(bloblist) / (1 + n_containing(word, bloblist)))
 
 def tfidf(word, blob, bloblist):
-    return tf(word, blob) * idf(word, bloblist)
+	return tf(word, blob) * idf(word, bloblist)
 
 
 punctuation = list(string.punctuation)
 stemmer = PorterStemmer() #for stemming
 fo = open("output.txt","rb+")
-foo3 = open("output4.txt","wb+") #final output
-jsonLoaded = json.loads(fo.read()) #json object loaded 
+foo3 = open("output5.txt","wb+") #final output
+jsonLoaded = json.loads(fo.read().decode('utf-8', 'ignore')) #json object loaded 
 fo.close()
 
-fo2 = open("output.txt","rb+")
-jsonLoaded2 = json.loads(fo2.read())
+#fo2 = open("output.txt","rb+")
+#jsonLoaded2 = json.loads(fo2.read())
 
 for lastName,v in jsonLoaded.iteritems():
 	myList = []
+	myList2 = []
 	for i in v:
 		i['text'] = i['text'].lower()
+		
 		i['text'] = re.sub(r"(?:\@|https?\://)\S+", "", i['text'])
+		myList2.insert(-1,i['text'])
 		terms_stop = [term for term in i['text'] if term not in punctuation]
 		x='';
 		#stemming:
@@ -83,18 +88,48 @@ for lastName,v in jsonLoaded.iteritems():
 			x+=aktoken+' '
 		x = x.lstrip()
 		#tweet has been cleaned
-		
-		x = x.encode('utf-8').strip()
-		myList.insert(-1,tb(x))
+		if x:	#sometimes tweets end up empty after all cleaning. this problem makes denominator of tf function = 0, and hence we get a 'divide by zero' error. So we need this check
+			myList.insert(-1,tb(x))
 	#print myList #this is my bloblist
 	bloblist = myList
+	for i,blob in enumerate(bloblist):
+		#calculating scores: i am not sure if we even need the next two lines here.
+		#scores = {word: tfidf(word,blob,bloblist) for word in blob.words}
+		#sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+		fo4 = open("lot.txt","rb+") #list of topics
+		fo3 = fo4.read().decode('utf-8', 'ignore')
+		for line in fo3:
+			#print line
+			line = line.lower()
+			topic_key =nltk.word_tokenize(line) #do not stem these, matching is affected
+			topic_score = {word: tfidf(word,blob,bloblist) for word in topic_key}
+			topic_sorted_words = sorted(topic_score.items(), key=lambda x: x[1], reverse=True)
+			for word, score in topic_sorted_words[:3]:
+				if score > 0.5: 
+					print '\n'
+					print topic_key
+					print '  :  '
+					print myList2[i]
+					print("Word: {}, TF-IDF: {}".format(word, round(score, 5)))
+					print '\n'
+					print lastName
+					print line
+					print str(round(score,5))
+					print myList2[i]
+					foo3.write('"'+lastName+'", "'+line+'", '+str(round(score, 5)).encode('utf-8').strip()+', "'+myList2[i]+'"')
+			#print '\n'
+		fo4.close()
+	#following code runs perfectly!
+	"""
 	for i, blob in enumerate(bloblist):
 		print("Top words in document {}".format(i + 1))
-		scores = {word: tfidf(word, blob, bloblist) for word in blob.words}
+		scores = {word: tfidf(word,blob,bloblist) for word in blob.words}		
 		sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
 		for word, score in sorted_words[:3]:
 			print("Word: {}, TF-IDF: {}".format(word, round(score, 5)))
 		print '\n\n\n'
+	"""
+
 """
 # June 13: http://www.cs.duke.edu/courses/spring14/compsci290/assignments/lab02.html try. Only the following code works, stri input doesnt work!
 token_dict = {} #defining token_dict
