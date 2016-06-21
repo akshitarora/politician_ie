@@ -23,7 +23,6 @@ from scrapy.selector import Selector
 from scrapy.http import HtmlResponse
 from bs4 import BeautifulSoup
 from HTMLParser import HTMLParser
-from nltk.corpus import stopwords
 from nltk.stem.porter import *
 import os
 import math
