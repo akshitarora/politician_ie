@@ -26,7 +26,7 @@ fo = open("output.txt","rb+")
 jsonLoaded = json.loads(fo.read().decode('utf8', 'ignore')) #json object loaded 
 fo.close()
 
-tweets_per_cluster = 4
+tweets_per_cluster = 10
 tweets_per_person = 200
 
 fo1.write('{')

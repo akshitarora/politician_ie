@@ -3,6 +3,8 @@
 # Script aims to take clusters of tweets and treat them as documents for tf idf calculations. Then take the lot.txt file for topics and then run queries to determine which topic gives the highest tf-idf score and hence, gets associated to the cluster.
 # Output expected <opinionHolder, document, topic, tf-idf> in output2.txt
 
+
+from __future__ import division, unicode_literals
 import json
 import io
 import string
@@ -35,12 +37,16 @@ def idf(word, bloblist):
 def tfidf(word, blob, bloblist):
 	return tf(word, blob) * idf(word, bloblist)
 
-stemmer = PorterStemmer() #for stemming 
-fo1 = io.open("output2.txt","w",encoding='utf8') #final output
+stemmer = PorterStemmer() #for semming 
+fo5 = io.open("output4.txt","w",encoding='utf8') #final output
+fo2 = io.open("output2.txt","w",encoding='utf8') #final output
+fo3 = io.open("output3.txt","w",encoding='utf8') #final output
 fo = open("output1.txt","rb+")
 jsonLoaded = json.loads(fo.read().decode('utf8', 'ignore')) #json object loaded 
 fo.close()
-
+fo5.write('associations with tfidf > 0.02\n\n')
+fo2.write('associations with tfidf > 0.0\n\n')
+fo3.write('associations with tfidf > 0.01\n\n')
 for lastName,v in jsonLoaded.iteritems():
 	myList = []
 	myList2 = []
@@ -61,14 +67,22 @@ for lastName,v in jsonLoaded.iteritems():
 			topic_sorted_words = sorted(topic_score.items(), key=lambda x: x[1], reverse=True)
 			#I need to average the score in the above dictionary "topic_sorted_words"
 			#print topic_sorted_words
-			if sum(val for d,val in topic_sorted_words) > 0.0:
-				print sum(val for d,val in topic_sorted_words)
+			#if sum(val for d,val in topic_sorted_words) > 0.0:
+				#print sum(val for d,val in topic_sorted_words)
 			tfif = sum(val for d,val in topic_sorted_words) / len(topic_sorted_words)
 			if tfif > highest: #assuming two scores never match, otherwise the first topic will be picked
 				highest = tfif
 				highest_line = line
+		if highest > 0.02:
+			#print myList2[i]
+			#print '-----------------------------------------------------------------------------------------------------------------------'
+			fo5.write('"'+lastName+'", "'+myList2[i]+'", "'+highest_line+'", '+str(highest)+'\n')
+		if highest > 0.01:
+			#print myList2[i]
+			#print '-----------------------------------------------------------------------------------------------------------------------'
+			fo3.write('"'+lastName+'", "'+myList2[i]+'", "'+highest_line+'", '+str(highest)+'\n')
 		if highest > 0.0:
-			print myList2[i]
-			print '-----------------------------------------------------------------------------------------------------------------------'
-			fo1.write('"'+lastName+'", "'+myList2[i]+'", "'+line+'", '+str(highest)+'\n')
+			#print myList2[i]
+			#print '-----------------------------------------------------------------------------------------------------------------------'
+			fo2.write('"'+lastName+'", "'+myList2[i]+'", "'+highest_line+'", '+str(highest)+'\n')
 	print '\n'
