@@ -38,15 +38,15 @@ def tfidf(word, blob, bloblist):
 	return tf(word, blob) * idf(word, bloblist)
 
 stemmer = PorterStemmer() #for semming 
-fo4 = io.open("output4.txt","w",encoding='utf8') #final output
+fo5 = io.open("output4.txt","w",encoding='utf8') #final output
 fo2 = io.open("output2.txt","w",encoding='utf8') #final output
 fo3 = io.open("output3.txt","w",encoding='utf8') #final output
 fo = open("output1.txt","rb+")
 jsonLoaded = json.loads(fo.read().decode('utf8', 'ignore')) #json object loaded 
 fo.close()
-fo4.write('associations with tfidf > 0.02\n\n')
-fo2.write('associations with tfidf > 0.0\n\n')
-fo3.write('associations with tfidf > 0.01\n\n')
+fo5.write('%associations with tfidf > 0.02\n%{opinionHolder, document, topic, tf-idf_score}')
+fo2.write('%associations with tfidf > 0.0\n%{opinionHolder, document, topic, tf-idf_score}')
+fo3.write('%associations with tfidf > 0.01\n%{opinionHolder, document, topic, tf-idf_score}')
 for lastName,v in jsonLoaded.iteritems():
 	myList = []
 	myList2 = []
@@ -73,16 +73,27 @@ for lastName,v in jsonLoaded.iteritems():
 			if tfif > highest: #assuming two scores never match, otherwise the first topic will be picked
 				highest = tfif
 				highest_line = line
+				highest_line = highest_line.rstrip('\n')
+				highest_line = highest_line.rstrip()
 		if highest > 0.02:
 			#print myList2[i]
 			#print '-----------------------------------------------------------------------------------------------------------------------'
-			fo4.write('"'+lastName+'", "'+myList2[i]+'", "'+highest_line+'", '+str(highest)+'\n')
+			high2 = str(highest)
+			strg = '\n\n{" ' + lastName + ' ", " ' + myList2[i] + ' " , " ' + highest_line + ' " , ' + high2 + '}'
+			print strg+'\n'
+			fo5.write(strg)
 		if highest > 0.01:
 			#print myList2[i]
 			#print '-----------------------------------------------------------------------------------------------------------------------'
-			fo3.write('"'+lastName+'", "'+myList2[i]+'", "'+highest_line+'", '+str(highest)+'\n')
+			high2 = str(highest)
+			strg = '\n\n{" ' + lastName + ' ", " ' + myList2[i] + ' " , " ' + highest_line + ' " , ' + high2 + '}'
+			#print strg+'\n'
+			fo3.write(strg)
 		if highest > 0.0:
 			#print myList2[i]
 			#print '-----------------------------------------------------------------------------------------------------------------------'
-			fo2.write('"'+lastName+'", "'+myList2[i]+'", "'+highest_line+'", '+str(highest)+'\n')
+			high2 = str(highest)
+			strg = '\n\n{" ' + lastName + ' ", " ' + myList2[i] + ' " , " ' + highest_line + ' " , ' + high2 + '}'
+			#print strg+'\n'
+			fo2.write(strg)
 	print '\n'
