@@ -23,8 +23,11 @@ from bs4 import BeautifulSoup
 foo = io.open("output.txt","w",encoding='utf8') #final output
 web = open("bbc.html","rb+") #webpage's HTML
 punctuation = list(string.punctuation)
-
 r = web.read()
+#leave and remain lists
+leavelist = ["Boris Johnson", "Liam Fox", "Zac Goldsmith", "Michael Gove", "Theresa Villiers", "John Whittingdale", "Priti Patel", "Chris Grayling", "Andrew R.T. Davies", "John Mann"]
+remainlist = ["David Cameron", "Philip Hammond", "Jeremy Hunt", "Michael Fallon", "Sajid Javid", "Theresa May", "Patrick McLoughlin", "Nicky Morgan", "David Mundell", "George Osborne", "Liz Truss", "Alun Cairns", "Matthew Hancock", "Greg Hands", "Tina Stowell"]
+
 soup = BeautifulSoup(r,'html5lib') #changed parser from html.parser to html5lib
 for tr in soup.select("h3.eu-ref-issue__title"):
 	#print tr.text
@@ -71,7 +74,7 @@ for tr in soup.select("h3.eu-ref-issue__title"):
 		d = x.lstrip()
 		d = d.rstrip()
 		d = a+' '+d
-		print d+'\n'
+		#print d+'\n'
 		leave = article.select("div.eu-ref-issue__summary--leave")[0]
 		e = ''
 		for li in leave.select("ul.eu-ref-issue__summary__policies"):
@@ -82,8 +85,9 @@ for tr in soup.select("h3.eu-ref-issue__title"):
 			e = e.rstrip()
 		e = string.replace(e,'\n',' ')
 		e = string.replace(e, '                     ', ' ')
-		foo.write('"Boris Johnson", "leave", "'+d+'", "'+e+'"\n\n')
-		print '"Boris Johnson", "leave", "'+d+'", "'+e+'"\n\n'
+		for name in leavelist:
+			foo.write('"'+name+'", "leave", "'+d+'", "'+e+'"\n\n')
+			print '"'+name+'", "leave", "'+d+'", "'+e+'"\n\n'
 		f = ''
 		remain = article.select("div.eu-ref-issue__summary--remain")[0]
 		for li in remain.select("ul.eu-ref-issue__summary__policies"):
@@ -94,5 +98,6 @@ for tr in soup.select("h3.eu-ref-issue__title"):
 			f = f.rstrip()
 		f = string.replace(f,'\n',' ')
 		f = string.replace(f, '                     ', ' ')
-		foo.write('"David Cameron", "remain", "'+d+'", "'+e+'"\n\n')
-		print '"David Cameron", "remain", "'+d+'", "'+e+'"\n\n'
+		for name in remainlist:
+			foo.write('"'+name+'", "remain", "'+d+'", "'+e+'"\n\n')
+			print '"'+name+'", "remain", "'+d+'", "'+e+'"\n\n'
